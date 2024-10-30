@@ -1,0 +1,2001 @@
+Product ID,Product Name,Category,Price,Quantity,Supplier,Supplier Contact
+9432,no,Men's Accessories,41.81,37,Williams-Bradford,idean@example.com
+4589,movement,Men's Accessories,57.28,189,West-Wade,mary01@example.com
+6707,travel,Men's Accessories,75.09,188,Mooney PLC,jenniferallison@example.com
+4514,would,Women's Shoes,35.38,145,Miles-Ali,matthewharrison@example.org
+2273,test,Men's Shoes,29.12,115,"Hood, Valenzuela and Logan",alyssafrank@example.org
+9337,many,Women's Accessories,54.2,84,Bowers PLC,nortonlori@example.com
+4356,whole,Men's Clothing,12.32,67,"Wyatt, Watson and Montgomery",jenniferburns@example.org
+3089,agency,Men's Shoes,30.89,102,"Humphrey, Jones and White",rebekahpierce@example.org
+6025,ever,Men's Clothing,87.34,40,"Wolfe, Bolton and Roberts",clarkenicholas@example.org
+3731,southern,Women's Clothing,32.39,51,Dean LLC,gdunn@example.com
+7857,including,Men's Accessories,60.52,99,Johnson-Robinson,karamarquez@example.com
+6105,hope,Women's Shoes,71.51,36,Owens and Sons,simpsonpatricia@example.net
+3826,term,Men's Accessories,26.61,197,Evans-Gomez,ohuber@example.com
+7008,series,Women's Clothing,52.15,13,Smith LLC,gail61@example.com
+5121,baby,Men's Accessories,23.64,108,Shelton PLC,lisayoung@example.com
+8587,by,Men's Shoes,88.66,65,Barber-Lam,judy40@example.org
+8390,attack,Men's Shoes,45.36,15,"Gutierrez, Jackson and Lewis",ddean@example.com
+8240,its,Men's Clothing,27.8,124,"Guerra, Lopez and Johnson",brittneyzimmerman@example.com
+5053,program,Women's Clothing,57.99,102,Guzman Inc,goneal@example.net
+6235,what,Women's Clothing,46.29,78,White-Thompson,idillon@example.net
+8128,brother,Men's Clothing,10.61,174,"Cooper, Mays and Smith",kristi99@example.net
+3220,baby,Men's Shoes,36.13,93,"Baker, Shaw and Parker",parkjennifer@example.net
+3336,wall,Women's Shoes,45.08,99,Ellis PLC,fkoch@example.net
+3382,it,Women's Shoes,33.38,121,"Whitehead, Robinson and Manning",hwall@example.net
+5092,up,Women's Clothing,68.29,141,Morales PLC,davidpayne@example.org
+6961,establish,Men's Accessories,77.2,156,"Hanson, Schwartz and Lowe",amanda38@example.com
+3662,before,Women's Clothing,94.68,84,Robertson-Joseph,linda75@example.net
+7584,simply,Women's Shoes,87.74,113,Rivera-Conner,benjamincarroll@example.org
+6069,head,Women's Clothing,47.7,12,Anderson LLC,philip62@example.com
+7131,should,Women's Shoes,88.11,20,Larson and Sons,richardbutler@example.net
+6251,every,Men's Shoes,74.84,166,"Moss, Melton and Barber",dustinmartin@example.com
+2333,sing,Men's Accessories,82.78,183,Orr-Moore,jeromeconley@example.org
+9084,take,Women's Clothing,97.91,174,"Gross, Williams and Wilson",donnaalexander@example.org
+2468,perform,Women's Shoes,16.33,28,Owen and Sons,pdavis@example.net
+2493,forget,Women's Clothing,90.16,15,"Perez, Cook and Alexander",qharrington@example.org
+4555,always,Men's Clothing,63.91,167,"Gonzalez, Anderson and Adams",bobbyhanson@example.org
+2056,born,Men's Shoes,44.57,76,Holloway Inc,megan33@example.com
+4181,talk,Men's Shoes,97.4,147,Mckinney-Burns,christophercole@example.org
+3227,as,Men's Clothing,13.05,135,Rodriguez Group,fwalker@example.org
+7728,people,Women's Clothing,10.66,31,Thomas Group,kelly96@example.net
+8683,even,Men's Accessories,20.8,192,"Parker, Harmon and Torres",bward@example.net
+8741,and,Men's Accessories,84.13,187,Schultz Ltd,wtorres@example.org
+9778,myself,Men's Clothing,35.61,99,"Griffin, Obrien and Benton",danny29@example.com
+7643,face,Men's Accessories,59.71,191,Warren-Wilson,carterjoe@example.net
+9409,garden,Women's Shoes,34.17,65,Fisher and Sons,banksalexander@example.com
+2470,dark,Men's Clothing,82.24,140,Hernandez Group,nross@example.org
+7811,PM,Men's Clothing,74.1,77,"Daniels, Deleon and Morrison",carloslewis@example.org
+4137,message,Women's Shoes,46.94,126,Dillon LLC,knightandrea@example.org
+9516,sign,Women's Accessories,32.51,78,Burke Ltd,gregory92@example.com
+7562,stuff,Men's Accessories,97.47,182,Kelly PLC,samantha81@example.net
+3264,system,Men's Accessories,35.5,162,Price-Munoz,patriciagregory@example.net
+1678,last,Men's Accessories,91.53,85,"Perry, Pruitt and Wheeler",camachocameron@example.org
+6943,member,Men's Shoes,15.59,62,"Nelson, Stark and Ellis",salasjackson@example.org
+9320,dog,Women's Clothing,88.57,169,"Kidd, Moore and Vincent",heather17@example.org
+6172,food,Men's Clothing,91.12,113,"Jordan, Evans and Solis",yevans@example.com
+8411,recent,Women's Shoes,51.05,140,Spencer-Welch,chelsea14@example.com
+7011,another,Men's Accessories,92.67,117,"Sanders, Rogers and Collins",wwilkerson@example.com
+5229,factor,Men's Clothing,29.86,15,Snyder-Jackson,freemanjoel@example.org
+2479,agree,Women's Shoes,82.77,127,Lewis Group,larryrivera@example.com
+7918,about,Women's Clothing,28.66,153,Adams Group,yjennings@example.com
+6244,provide,Women's Accessories,36.82,96,"Thompson, Weber and Stafford",vwilson@example.net
+8386,education,Men's Clothing,46.06,123,"Wilkins, Santos and Miranda",wacevedo@example.net
+2754,assume,Men's Clothing,93.94,11,Jones-Thomas,anna35@example.com
+3266,former,Women's Accessories,46.35,68,Patterson PLC,boydtoni@example.net
+5358,join,Women's Shoes,47.32,126,Anderson-Ayers,edwinkennedy@example.net
+4907,scientist,Women's Accessories,17.78,57,Blackwell-Kline,caldwellandrew@example.org
+2667,know,Men's Shoes,87.48,85,Sanchez Inc,irwindonna@example.com
+8461,cold,Men's Accessories,62.4,183,"Shepard, Brown and Steele",emcdonald@example.net
+9180,else,Men's Clothing,91.05,137,Barnett PLC,omills@example.org
+8045,receive,Women's Clothing,80.61,32,Delacruz-Ramos,hannah99@example.com
+2861,account,Women's Clothing,72.99,196,"Anderson, Meyer and Shea",pwright@example.net
+7181,herself,Men's Shoes,66.74,41,Wells-Cruz,autumn53@example.net
+5690,size,Men's Shoes,60.66,130,Hayes-Hall,ycarroll@example.org
+3297,mother,Men's Shoes,94.25,88,Berg PLC,annawilliams@example.org
+1775,effect,Men's Clothing,56.45,48,Perry PLC,daniel95@example.org
+5083,record,Women's Accessories,84.74,193,Willis Inc,marshallpatricia@example.net
+8253,art,Men's Accessories,55.92,33,Fletcher Inc,teresa41@example.org
+1486,indicate,Women's Accessories,19.39,18,Smith-Marsh,keith91@example.com
+8370,meet,Women's Accessories,56.77,101,Dean-Chavez,paulfox@example.net
+8382,activity,Women's Clothing,61.34,124,Figueroa-Long,iharris@example.com
+3458,gas,Men's Shoes,16.53,85,Burgess-Clark,gonzalezalicia@example.org
+6112,will,Women's Clothing,49.78,20,Harris PLC,lopezaaron@example.com
+3860,business,Women's Accessories,83.36,170,Smith-Barnett,alexisjohnson@example.org
+7148,guy,Women's Accessories,75.71,99,Holmes LLC,pinedajoyce@example.com
+6934,a,Men's Shoes,22.36,171,"Braun, Boone and Valdez",bcamacho@example.com
+3862,page,Men's Clothing,92.44,181,"Meyer, Stone and Crawford",asoto@example.org
+2604,pay,Men's Shoes,35.44,131,"Wilson, Douglas and Alvarado",carlalvarez@example.org
+4739,western,Women's Accessories,33.07,177,Maldonado-Bell,nicoledavenport@example.net
+2879,stage,Women's Shoes,88.3,106,Matthews Group,monica53@example.com
+5145,consumer,Women's Shoes,86.33,95,Yu and Sons,matthewcampbell@example.net
+7414,wear,Men's Clothing,40.69,112,Mccall and Sons,james11@example.org
+4686,respond,Women's Shoes,66.71,83,King-Barker,amymartin@example.net
+2954,discuss,Women's Accessories,96.98,177,Chang-Williams,david37@example.org
+2962,home,Women's Shoes,12.39,70,Wu-Gonzalez,jimmyeverett@example.com
+4750,catch,Women's Accessories,88.74,179,Carlson-Rodriguez,reedrandall@example.org
+1834,hold,Women's Clothing,70.71,185,"Ryan, Walker and Henderson",bryantmason@example.net
+1449,fine,Men's Clothing,69.55,103,Lopez Group,zochoa@example.net
+4224,card,Women's Shoes,71.74,48,Larson LLC,jorge27@example.com
+4607,top,Women's Clothing,97.31,117,Lewis-Bailey,clawson@example.org
+7367,standard,Women's Accessories,62.38,48,Johnson Ltd,edwardsjamie@example.net
+9556,happy,Women's Shoes,77.93,109,"Mitchell, Sanders and Jones",thomasjohnson@example.org
+7490,save,Women's Shoes,98.89,141,"Garcia, Wall and Moore",christopheranderson@example.net
+3367,often,Men's Shoes,95.84,33,Weber Ltd,arellanoanthony@example.net
+2136,eight,Men's Accessories,51.99,197,Green PLC,veronica59@example.org
+6220,create,Women's Clothing,20.54,98,Anderson-Pope,xhill@example.net
+8623,special,Women's Accessories,24.7,197,Morse-Douglas,miguelklein@example.com
+5448,full,Men's Accessories,19.67,93,Kaufman-Johnson,brett60@example.com
+5034,respond,Women's Shoes,89.33,73,Kim Ltd,michael97@example.com
+8553,nation,Women's Shoes,84.65,156,"Lopez, Mitchell and Smith",rclark@example.com
+2758,commercial,Women's Clothing,53.29,38,Miller-Hopkins,campbellmichael@example.com
+7519,during,Women's Clothing,33.91,61,Simpson-Morgan,alvarezsamantha@example.org
+4078,source,Women's Clothing,20.59,194,"Gonzalez, Burke and Finley",dcurry@example.net
+1521,whatever,Women's Accessories,56.95,173,Garcia-Haas,wilkinsonlacey@example.org
+2720,nation,Women's Accessories,68.04,49,Long LLC,luiskrause@example.com
+7927,sport,Women's Shoes,23.87,185,Harris-Murphy,jason15@example.org
+1987,phone,Men's Shoes,22.94,187,"Anderson, Cox and Jarvis",singletonandrea@example.com
+5626,of,Women's Shoes,45.75,94,Mckay-Serrano,larryfoster@example.org
+9729,yard,Women's Accessories,19.83,186,Gutierrez and Sons,angela77@example.com
+5915,spend,Men's Shoes,26.09,132,Webb-Nelson,patrickkelly@example.com
+1422,official,Men's Clothing,58.99,183,Neal LLC,courtney95@example.org
+4750,coach,Men's Shoes,22.27,133,"Meza, Wise and Jackson",reedvirginia@example.com
+9056,into,Women's Accessories,98.54,162,Brown PLC,youngluis@example.com
+9057,religious,Women's Shoes,27.25,146,Smith Ltd,robert04@example.net
+4169,will,Women's Shoes,76.21,37,Sanchez Group,morrisoncolleen@example.org
+4803,successful,Men's Clothing,75.64,185,Wilkinson Group,charlesrogers@example.org
+7402,thank,Women's Accessories,39.22,35,Hart-Harrison,figueroaclayton@example.org
+9629,around,Women's Accessories,88.3,147,"Hickman, Tran and Hooper",ryanwagner@example.com
+3668,nothing,Women's Shoes,27.21,38,Washington-Brown,raymondmarquez@example.net
+5001,might,Women's Shoes,68.33,160,"Davis, Thompson and Roberts",wmann@example.net
+3803,parent,Women's Accessories,91.01,77,"Morris, Martin and Scott",asanchez@example.com
+7158,husband,Men's Clothing,43.22,18,Fowler-Poole,murillowilliam@example.com
+3239,general,Women's Accessories,58.64,119,Mora-Collins,heather36@example.org
+7847,box,Men's Accessories,57.16,97,"Clark, Sullivan and Garza",upittman@example.com
+5931,state,Women's Accessories,52.42,151,Downs-Ramirez,ginarobinson@example.org
+7108,fish,Women's Clothing,49.08,116,Dixon-Galvan,jerry39@example.com
+9145,likely,Women's Accessories,67.65,58,Gutierrez-Taylor,jason11@example.net
+2761,again,Women's Shoes,54.1,77,Fuentes-Davis,kaitlyn42@example.org
+6456,west,Men's Clothing,97.83,180,"Benton, Hickman and Phillips",jessemoore@example.org
+3496,who,Women's Accessories,65.54,26,"Downs, Cummings and Jones",phammaria@example.org
+3371,mouth,Men's Shoes,18.47,48,Krueger PLC,michaelsullivan@example.net
+5657,where,Men's Shoes,76.5,104,"Perez, Burns and Ortega",smithterrance@example.com
+6590,television,Women's Clothing,68.25,70,Ross Group,cgarrett@example.com
+6907,into,Women's Clothing,29.82,179,"Reid, Tucker and Thompson",richard44@example.com
+3961,end,Men's Accessories,77.84,159,Olson LLC,ecantrell@example.com
+2030,onto,Women's Clothing,31.09,160,Cunningham Group,brian38@example.com
+8939,green,Men's Accessories,73.55,102,"Butler, Martinez and White",tyler47@example.com
+9424,few,Women's Clothing,45.01,27,Torres LLC,patty98@example.com
+7932,successful,Men's Accessories,63.77,82,Wilson-Rollins,snyderjames@example.org
+1904,fear,Women's Clothing,25.57,86,Perez Inc,kristinabarron@example.net
+1904,reveal,Women's Accessories,77.61,30,Gonzalez PLC,taylorwilliam@example.net
+5152,draw,Women's Accessories,64.96,137,Cameron-Gonzalez,allendavis@example.net
+8453,measure,Women's Shoes,37.44,17,Moses-Caldwell,lortega@example.net
+8420,plan,Men's Accessories,56.39,177,Horton PLC,kimberly01@example.net
+1509,him,Men's Clothing,91.0,164,"Wang, Bennett and Mckinney",qturner@example.com
+8470,could,Women's Shoes,96.71,98,Pearson-Sanchez,dduffy@example.com
+9682,authority,Men's Shoes,71.71,141,Anderson-Parks,scott50@example.org
+1979,official,Women's Clothing,32.95,200,Brown PLC,michellepham@example.net
+3836,fill,Men's Shoes,42.03,77,White-Wells,andresdaugherty@example.com
+1522,establish,Men's Clothing,39.89,11,Turner Ltd,ogrant@example.org
+2081,seem,Women's Accessories,78.35,35,Hurst LLC,xharris@example.net
+6093,operation,Men's Shoes,45.14,97,Brown-Scott,tyler29@example.com
+1189,represent,Men's Clothing,59.3,88,Mckenzie PLC,stanleysandra@example.net
+2644,reveal,Women's Clothing,50.08,179,Vasquez-Gates,weeksaaron@example.com
+2450,try,Men's Shoes,86.25,172,Meza Group,shawnwyatt@example.org
+4252,part,Men's Clothing,53.63,79,"Jones, Mueller and Collins",christianscott@example.net
+6645,summer,Women's Accessories,24.87,29,Vaughan Inc,michelle89@example.com
+1946,kitchen,Women's Accessories,72.18,166,Poole-Lang,ronnie43@example.net
+4304,easy,Women's Accessories,98.98,152,Woods Group,osmith@example.com
+6028,site,Women's Shoes,49.57,67,"Mills, Guzman and Mcdonald",suzannetorres@example.org
+4569,down,Men's Clothing,36.14,27,Bullock Inc,taylorapril@example.net
+7198,very,Men's Clothing,90.76,49,Morgan LLC,vpeters@example.com
+5987,director,Men's Clothing,82.68,29,"Mcdonald, Andrews and Howard",jasonmason@example.net
+3326,politics,Men's Clothing,25.47,71,Romero-Doyle,jeffparker@example.net
+4580,various,Women's Clothing,66.34,96,"Hall, Schneider and White",andrea19@example.org
+6129,conference,Women's Clothing,29.28,170,Stevens Inc,yblack@example.org
+8873,affect,Women's Shoes,70.98,60,Foster Group,cody34@example.net
+4057,by,Men's Clothing,11.83,174,Harrell-Ashley,hcombs@example.com
+3801,school,Men's Shoes,79.43,154,Riley-Hogan,sarahwilliamson@example.com
+6179,message,Men's Accessories,76.38,162,Olsen Ltd,dunnbrittany@example.net
+7312,media,Men's Clothing,19.62,20,"Meadows, Torres and Espinoza",shaundoyle@example.net
+9303,serve,Men's Clothing,83.71,101,Carr Inc,macdonaldcurtis@example.org
+2081,different,Men's Clothing,49.24,58,Perkins-Lindsey,angela99@example.net
+3650,peace,Women's Clothing,71.75,104,"Rivera, Johnson and Thompson",castanedaconnie@example.com
+3092,admit,Men's Clothing,11.09,22,Adams PLC,christianhorton@example.net
+4954,can,Women's Clothing,44.95,55,Turner Group,james95@example.net
+9175,beautiful,Women's Accessories,17.55,145,Todd and Sons,moorejillian@example.net
+8476,cost,Men's Shoes,45.54,114,Price-Macias,andreabanks@example.org
+5763,not,Men's Shoes,49.88,101,Herrera-Taylor,scottbarnett@example.net
+9763,never,Men's Clothing,67.21,141,Mccullough LLC,qboyle@example.net
+5917,break,Women's Shoes,58.22,83,Smith-Monroe,adamschristian@example.org
+4656,material,Men's Shoes,48.26,31,"Murphy, Hayes and Brown",susanhenderson@example.com
+6033,difficult,Women's Accessories,21.23,91,Ho Group,benjaminchandler@example.net
+3451,join,Women's Clothing,39.7,140,Smith-Miller,kathleen55@example.net
+5797,increase,Women's Shoes,57.08,53,"Collins, Bridges and Buckley",brandonzimmerman@example.net
+9285,person,Men's Clothing,86.96,101,"Ramirez, Schmidt and Clark",jessicagonzalez@example.org
+5901,week,Men's Accessories,57.44,33,Green and Sons,christopher57@example.org
+8132,boy,Men's Accessories,61.63,49,Moreno-Cooper,swilliams@example.com
+8995,also,Men's Shoes,54.99,31,Olson Group,qjones@example.com
+6688,offer,Men's Clothing,55.68,119,Myers-Thompson,terrydaniel@example.org
+1272,spring,Men's Clothing,12.69,117,Austin-Flores,jennifer99@example.net
+9233,structure,Women's Accessories,80.15,175,"Wheeler, Mooney and Gray",randywood@example.org
+9902,event,Women's Shoes,60.48,72,"Hunt, Kelley and Crawford",tmartinez@example.org
+6144,thousand,Men's Clothing,93.57,172,Lynn-Stafford,bowerscheryl@example.com
+2695,such,Men's Accessories,75.4,43,Woods-Taylor,julie09@example.com
+2787,discover,Women's Shoes,21.27,87,"Garcia, Frank and Blevins",gphillips@example.org
+8673,much,Women's Shoes,27.27,60,Curtis-Roy,fanderson@example.net
+2391,produce,Men's Clothing,63.94,172,Sherman-Harris,michael80@example.net
+3458,reality,Women's Accessories,85.08,175,Phillips and Sons,lmendoza@example.com
+1180,best,Women's Clothing,36.1,107,"Myers, Anderson and Horton",wlam@example.com
+5814,capital,Women's Accessories,62.12,110,Ortiz-Smith,amandamiller@example.net
+3302,we,Women's Accessories,79.82,173,"Campbell, Sims and Carrillo",joshua53@example.net
+7853,marriage,Men's Accessories,30.24,40,"Woodward, Brewer and Bruce",bobbybutler@example.org
+7227,morning,Women's Accessories,68.38,171,Mcfarland-Adams,dthomas@example.org
+4562,treat,Men's Clothing,40.92,82,Oliver-Parks,vlopez@example.com
+1613,political,Men's Shoes,59.57,193,Jones-Frank,youngbarbara@example.com
+9470,test,Women's Shoes,92.65,39,"Turner, Perkins and Mathews",zroberts@example.org
+7509,theory,Women's Accessories,74.52,135,Rosario-Austin,ngonzalez@example.org
+2106,address,Men's Clothing,90.14,149,Pierce LLC,rogerbuck@example.net
+4166,help,Men's Shoes,40.86,103,Mcintyre and Sons,mark71@example.org
+4358,wife,Men's Shoes,97.56,177,"Mathis, Patton and Franklin",perezjoe@example.com
+3940,player,Men's Shoes,72.61,173,Berg Group,rerickson@example.org
+3687,responsibility,Women's Accessories,56.37,146,"Gross, Nelson and Williams",alex73@example.net
+3928,free,Men's Accessories,54.49,108,"Richards, Frederick and Robertson",bentleyjennifer@example.com
+1438,few,Women's Shoes,26.86,190,Russell Inc,nathangarcia@example.com
+9770,name,Women's Clothing,29.99,163,"Campbell, Sampson and Davis",gutierreztracy@example.org
+1754,special,Women's Accessories,21.75,52,Davis-Wells,wlarsen@example.com
+3328,investment,Women's Shoes,38.44,44,Baird Group,mary76@example.org
+2076,fight,Men's Accessories,98.8,173,Jordan PLC,wsanchez@example.com
+7083,help,Men's Clothing,26.63,33,Mcgee and Sons,shawbrianna@example.com
+4936,author,Women's Clothing,59.91,33,"Smith, Gonzalez and Juarez",thomasmiller@example.org
+5372,country,Men's Clothing,87.15,70,Strickland-Tapia,kristin16@example.org
+6905,series,Men's Shoes,56.19,116,Diaz-Shepard,sjohnson@example.com
+9256,each,Men's Accessories,73.24,115,"Burnett, White and Mcclain",hodgeashley@example.org
+7073,process,Women's Clothing,12.65,47,Lee-Burke,rhernandez@example.net
+5786,institution,Men's Shoes,50.92,158,Alvarado Inc,ohardy@example.net
+8564,write,Men's Accessories,43.54,189,Vaughn Inc,bennettsheri@example.org
+3530,beyond,Men's Shoes,73.2,47,Gilbert-Johnson,timothypowell@example.net
+4408,energy,Men's Shoes,26.75,128,Davis-Miller,hgraves@example.com
+4318,example,Men's Shoes,16.92,23,Brown-Huff,samuel17@example.com
+3795,rich,Women's Accessories,38.68,174,Francis-Johnson,ucampbell@example.com
+9107,yourself,Men's Clothing,48.45,115,Campos-Pierce,katherine79@example.org
+7730,account,Men's Accessories,33.42,131,Guerrero-Grimes,joshuameza@example.net
+7942,certain,Men's Accessories,62.01,11,Perez Inc,jamesvargas@example.com
+3159,action,Women's Accessories,48.09,165,"Leonard, Cooper and Lester",anitaallen@example.org
+2151,maybe,Men's Accessories,91.56,143,"Bradford, Ruiz and Neal",cynthia43@example.com
+6738,take,Women's Clothing,34.94,56,"Cohen, Chase and Chapman",campbelljonathan@example.com
+3697,condition,Men's Accessories,12.51,164,"Small, Anderson and Oliver",melissa46@example.com
+7020,act,Men's Shoes,13.78,114,"Sullivan, Hoffman and Robertson",jeff66@example.net
+2738,prevent,Women's Clothing,10.68,171,Murphy Inc,melissacantrell@example.org
+3647,lead,Men's Accessories,55.0,169,Jones-Lane,susan91@example.org
+3126,nearly,Men's Shoes,71.3,66,Perez LLC,cheryl34@example.org
+1993,himself,Men's Accessories,34.25,22,Jones Ltd,quinnmadison@example.org
+9307,believe,Women's Clothing,31.11,126,"Perez, Fitzgerald and Rodriguez",michelle03@example.org
+8614,together,Men's Shoes,91.21,171,Knight Ltd,jamesgonzalez@example.org
+3435,page,Women's Shoes,55.62,113,"Smith, Hunter and Shaw",davisalisha@example.org
+6268,outside,Women's Clothing,93.49,200,"Rowland, Steele and Gibson",cookcatherine@example.net
+6469,the,Men's Accessories,69.94,133,"Allen, Love and Gonzalez",tracy83@example.com
+6712,article,Men's Accessories,67.78,165,"Thomas, Lopez and Smith",schultzshirley@example.org
+5898,growth,Men's Accessories,12.42,85,Myers Ltd,winterskara@example.com
+9329,unit,Men's Shoes,58.95,92,White-Jones,smithsarah@example.com
+1568,billion,Women's Clothing,14.6,60,"Lawrence, Reed and Kerr",vargaseric@example.com
+2547,race,Women's Shoes,97.14,184,"Mccann, Patterson and Mcclure",amy77@example.org
+3829,alone,Women's Clothing,96.01,82,Phillips Inc,kristinesmith@example.org
+1566,work,Men's Accessories,12.3,28,Mccall-Rodriguez,johnsonnancy@example.net
+4661,accept,Men's Clothing,65.29,103,Brown-Hendricks,martinjoseph@example.org
+2845,majority,Women's Shoes,51.3,39,Hays-Martinez,latoya42@example.net
+7436,employee,Women's Shoes,13.39,66,"Montgomery, Patterson and Cortez",bbrooks@example.net
+5655,service,Men's Shoes,79.96,104,"Black, Bates and Clark",traci31@example.org
+2144,chance,Men's Shoes,70.25,153,Fischer-Jones,darius69@example.net
+2448,loss,Men's Shoes,17.67,45,Riddle LLC,lisa86@example.org
+6621,crime,Men's Accessories,33.14,42,Perkins-Dixon,dianafoley@example.net
+7429,contain,Women's Accessories,35.66,200,Rice Inc,phillip44@example.org
+9218,per,Women's Shoes,60.99,61,"Mckay, Herrera and Gardner",jeffrey14@example.org
+3844,source,Women's Clothing,41.4,88,Mathis-Henry,mckinneykaren@example.com
+8634,stage,Men's Clothing,26.04,155,Taylor-Jimenez,daniellefrazier@example.net
+3239,officer,Men's Accessories,15.36,11,Pierce-Levine,andersonkimberly@example.com
+6949,drop,Women's Shoes,48.67,159,"Howell, Smith and Daniels",marshcurtis@example.org
+2104,produce,Women's Shoes,27.99,123,Skinner-Garcia,csingleton@example.org
+9728,apply,Women's Shoes,54.31,179,"Guzman, Smith and Moore",washingtonjaclyn@example.com
+2448,set,Women's Accessories,25.87,19,"Orr, Anthony and Dominguez",warebrittney@example.net
+9855,whether,Men's Clothing,24.78,111,Mcdonald PLC,rossarthur@example.net
+2591,old,Men's Accessories,66.87,129,Austin and Sons,robertlowe@example.net
+7727,power,Men's Clothing,81.77,14,Williams-Baldwin,stevenjackson@example.net
+6770,product,Women's Accessories,18.87,189,"Morris, Hodge and Gibbs",alexis58@example.net
+1153,already,Women's Shoes,25.54,146,Hull and Sons,gabriel62@example.net
+5610,official,Women's Accessories,29.74,162,"Reyes, James and Cordova",michaelsmith@example.net
+5475,stay,Men's Accessories,75.51,74,"Clayton, Haley and Perez",finleyrachel@example.org
+7032,term,Women's Clothing,12.79,50,"Greene, Chavez and Smith",allisonpamela@example.com
+1526,conference,Women's Clothing,32.84,116,"Sullivan, Valenzuela and Wells",alexandriapeterson@example.org
+5258,produce,Women's Clothing,67.06,76,Ramos Group,twilkinson@example.com
+2397,look,Men's Shoes,10.68,56,Riley-Lynch,johndorsey@example.com
+1605,compare,Women's Accessories,13.79,100,"Byrd, Davis and Owens",jwalters@example.com
+3339,detail,Men's Accessories,60.16,180,"Schaefer, Hall and Andrews",suzannejackson@example.org
+6401,focus,Women's Clothing,45.93,24,Edwards-George,eshaffer@example.com
+5636,that,Women's Accessories,38.45,190,"Lambert, Cruz and Holder",marshallmichael@example.org
+7683,live,Men's Clothing,25.4,161,"Barrera, Villanueva and Salazar",julie62@example.com
+5940,decision,Men's Accessories,51.57,181,"Harris, Davenport and Mccoy",michaeljennings@example.com
+2620,side,Men's Shoes,69.78,189,"Powell, Sharp and Pena",abenson@example.com
+9360,water,Women's Shoes,49.09,199,Phelps Ltd,abigailbrown@example.org
+7088,major,Women's Clothing,62.87,97,Aguirre-Baker,amanda62@example.org
+9090,west,Men's Shoes,97.82,111,Mercer-Rodriguez,wjuarez@example.com
+1467,determine,Men's Accessories,89.81,135,Smith Group,dphillips@example.org
+6337,fine,Women's Accessories,59.93,159,Brandt PLC,jennifer49@example.net
+4400,top,Women's Clothing,77.69,136,Hancock LLC,david57@example.org
+4680,street,Women's Shoes,28.31,119,"Gutierrez, Soto and Jones",icastillo@example.org
+8965,knowledge,Women's Clothing,55.57,185,Landry-Anderson,stacey90@example.org
+5097,check,Men's Accessories,57.19,29,Lee LLC,michelle58@example.org
+4260,form,Men's Accessories,94.32,58,"Olson, Duffy and Wall",saramartin@example.org
+8471,tax,Women's Shoes,97.0,157,Phillips-Mays,mannsavannah@example.org
+8901,top,Women's Clothing,54.01,180,Lee Inc,lgarrett@example.com
+2636,fast,Men's Accessories,97.63,23,"Houston, Stewart and Thomas",brandon65@example.net
+5255,dog,Men's Shoes,17.68,30,Johnston PLC,walkerchristopher@example.net
+6575,store,Men's Clothing,29.16,44,Ayala-Taylor,ayalagina@example.com
+3522,drive,Women's Accessories,87.06,149,"Hughes, Morton and Dean",michaelbaker@example.net
+9347,brother,Men's Accessories,38.31,195,Jones PLC,oscarpatterson@example.net
+3315,them,Women's Clothing,59.53,90,Rodriguez-Grant,vcarter@example.org
+5415,firm,Women's Clothing,21.61,157,Cross PLC,lisa12@example.com
+4753,one,Men's Shoes,90.96,188,Campos Inc,mitchelljose@example.net
+5045,whole,Women's Clothing,24.07,62,Weber-Cole,fergusonjohn@example.net
+9882,build,Women's Accessories,56.14,164,Ali-Woods,teresathomas@example.org
+8593,agent,Women's Shoes,13.08,154,"Cooper, Perez and Harris",haleylawrence@example.com
+8901,item,Women's Clothing,51.38,153,"Collier, Lopez and Orozco",jonathan98@example.net
+8068,cell,Men's Shoes,12.44,36,Friedman-Wyatt,greenlatasha@example.net
+2628,wear,Men's Clothing,78.87,60,Smith-Sparks,wvaughn@example.org
+2391,pass,Men's Clothing,32.15,90,"Foley, Owens and Cole",wjohnson@example.net
+4510,suddenly,Women's Accessories,67.94,133,Brown-May,estephens@example.net
+3447,success,Women's Accessories,86.95,139,"Pratt, Jenkins and Vasquez",jessica40@example.net
+4465,cell,Women's Clothing,90.8,69,"Wallace, Schwartz and Lewis",kgilbert@example.net
+8601,nearly,Men's Clothing,29.65,19,"Butler, Smith and Olson",uhale@example.com
+5514,wonder,Men's Shoes,86.18,195,Clark-White,kristinamartin@example.net
+5320,once,Women's Accessories,42.29,156,"Morales, Mclaughlin and Francis",duane10@example.net
+1828,after,Women's Clothing,60.9,73,Hall Inc,tamara26@example.org
+7650,home,Men's Accessories,59.19,96,"Malone, Ryan and Berg",suzanne68@example.net
+6215,street,Men's Accessories,99.27,123,Hughes Inc,alexandrapatel@example.net
+8685,now,Men's Shoes,97.45,81,"Hogan, Pearson and Washington",penamark@example.org
+2259,go,Men's Clothing,55.36,114,Peterson-Garcia,mcfarlandamber@example.org
+2940,candidate,Men's Clothing,11.0,58,Mercado-Snyder,roger17@example.net
+3924,him,Women's Clothing,74.71,188,Coleman Inc,vlucero@example.com
+4045,night,Men's Shoes,56.98,138,"Mckinney, Davis and Stanton",lfarrell@example.net
+5523,college,Women's Clothing,93.43,129,"Calderon, Terry and Johnson",ischneider@example.net
+5189,increase,Women's Clothing,36.51,32,Schmitt-Shepard,tonyperez@example.org
+7153,they,Women's Shoes,67.11,11,"Nguyen, Russo and Krueger",janetbrown@example.org
+6166,tough,Men's Accessories,87.57,91,"Phillips, Hopkins and James",mandy61@example.org
+1730,again,Men's Shoes,40.97,41,Anderson LLC,dgarcia@example.net
+8960,lose,Women's Shoes,79.8,184,Houston-Wang,sancheztami@example.org
+6830,style,Women's Shoes,91.63,24,Bailey-Maddox,adam34@example.net
+4589,name,Women's Shoes,87.6,113,Diaz and Sons,susandoyle@example.com
+5208,step,Men's Accessories,88.36,133,Russell-Clarke,nicholashudson@example.com
+1329,cell,Women's Accessories,25.87,183,Gentry-Flores,thomassnyder@example.net
+6825,big,Women's Shoes,46.64,112,Wilkinson Ltd,oconner@example.com
+8238,risk,Women's Shoes,36.47,142,"Rodriguez, Hoffman and Ortega",murraykarla@example.org
+8803,guy,Men's Accessories,51.78,94,"Johnson, Lindsey and Lopez",ljohnson@example.org
+8331,within,Women's Accessories,58.02,138,Martinez-Hampton,solomongina@example.com
+6368,model,Women's Clothing,58.43,186,"Holmes, Ford and Shelton",lisakelly@example.net
+1045,involve,Women's Accessories,95.02,155,"Garza, Beck and Benton",jenniferwilson@example.org
+4815,pay,Men's Clothing,11.71,177,Figueroa-Powers,robinsonsabrina@example.net
+9439,public,Men's Shoes,55.74,85,Dominguez-Alexander,udawson@example.com
+8942,produce,Women's Accessories,79.89,146,"Lynch, Smith and Jones",dmedina@example.com
+4596,phone,Men's Clothing,59.17,67,Velasquez-Mendez,chrisnguyen@example.com
+8420,sister,Men's Accessories,34.54,21,Owens PLC,jamesjensen@example.com
+3701,summer,Men's Clothing,48.98,25,White Group,andrewgilbert@example.org
+3665,small,Women's Shoes,63.69,68,Hernandez-Hebert,kevinwilson@example.com
+3454,tell,Men's Accessories,53.98,70,"Roberts, Reyes and Hammond",matthew42@example.org
+7519,produce,Women's Clothing,35.7,105,Thomas-Malone,brian69@example.net
+5173,claim,Men's Shoes,39.99,200,"Shepherd, Cannon and Rodriguez",nicole30@example.com
+4042,set,Men's Shoes,46.34,199,"Jenkins, Moss and Smith",sarah17@example.org
+8157,base,Women's Clothing,13.44,164,"Gonzalez, Rodriguez and Ward",ruizbrandon@example.net
+8686,heart,Women's Clothing,10.13,100,"Anderson, Singh and Reynolds",erica07@example.net
+7401,Congress,Men's Accessories,70.65,119,Hopkins-Jensen,fbryant@example.net
+5326,particularly,Men's Accessories,14.12,71,Smith-Coleman,hayesisaiah@example.net
+9644,leader,Women's Clothing,52.91,181,Hernandez-Yoder,nicholas65@example.org
+4437,personal,Women's Accessories,48.1,54,"Martinez, Gonzalez and Shaw",andrea24@example.net
+6332,early,Women's Accessories,65.44,43,Tapia-Rodriguez,elizabeth17@example.com
+6599,daughter,Women's Accessories,58.46,97,Murphy LLC,michaelrandolph@example.net
+7914,early,Men's Clothing,68.78,168,"Turner, Golden and Lopez",robertthornton@example.org
+6099,trip,Men's Clothing,56.86,15,"Roberts, Nguyen and Ball",jimenezrebecca@example.net
+8265,not,Women's Accessories,43.44,113,May-Herrera,paulking@example.org
+4184,enough,Men's Clothing,66.8,27,Rice-Frye,peter92@example.net
+4227,industry,Women's Shoes,86.87,88,James-Kelley,rick41@example.org
+9704,old,Men's Accessories,82.56,134,Moran Group,asanchez@example.net
+2994,some,Men's Shoes,95.27,112,Allen and Sons,hallrobert@example.net
+9133,statement,Women's Clothing,20.87,195,Cox Ltd,rachelking@example.org
+8444,simple,Women's Accessories,72.79,180,Goodman-Turner,jessica09@example.com
+4705,local,Women's Clothing,65.27,94,Hill-Boone,igregory@example.com
+2954,trouble,Women's Shoes,67.4,158,Dixon Ltd,hartholly@example.com
+6676,change,Men's Shoes,78.96,128,Sellers LLC,ryu@example.com
+8608,be,Women's Clothing,67.72,112,Tran-King,jasmine93@example.net
+5470,strong,Men's Accessories,36.51,196,Porter Inc,william39@example.net
+6448,push,Women's Clothing,36.91,103,"Chang, Clay and Myers",howardrenee@example.net
+8247,knowledge,Men's Clothing,40.89,180,"Adams, Larson and Houston",pramirez@example.net
+2659,save,Men's Shoes,16.68,56,Henson and Sons,dana74@example.net
+7264,leader,Men's Clothing,58.75,127,"Singleton, Green and Bates",nancylewis@example.org
+1135,against,Men's Accessories,17.01,73,"Robinson, Miller and Glenn",msanders@example.com
+7768,early,Women's Accessories,16.25,29,Martinez Group,hartmanjeffrey@example.org
+1494,thing,Men's Shoes,62.31,27,"Romero, Mullen and Yoder",angela01@example.com
+9719,form,Men's Shoes,11.6,136,Mendez Group,fburke@example.org
+6913,write,Women's Clothing,81.39,25,Fuller LLC,mitchellcrystal@example.com
+3547,entire,Men's Shoes,96.04,40,"Bonilla, Lynch and Robinson",krauseadam@example.com
+7575,resource,Women's Shoes,61.6,163,Davis PLC,clewis@example.net
+8881,past,Men's Accessories,57.88,144,Lang-Ryan,dharris@example.org
+6758,letter,Men's Accessories,89.12,10,Martinez PLC,samueldavis@example.org
+2813,role,Men's Clothing,64.19,156,Paul-Watson,jameshenderson@example.com
+2785,hair,Women's Accessories,29.79,69,Page PLC,rachellong@example.net
+5191,represent,Women's Clothing,62.66,60,"Boyle, Jackson and Martin",mallory14@example.net
+5613,play,Men's Clothing,46.9,107,"Tapia, Peterson and Strickland",davidluna@example.net
+1417,building,Women's Shoes,58.92,91,Carlson PLC,bperez@example.net
+8547,its,Men's Shoes,93.58,191,"Harrison, Lopez and Ingram",jaygeorge@example.org
+9064,interest,Men's Shoes,55.65,28,"Hebert, Simmons and Flores",johnsonjulia@example.org
+7720,serious,Men's Shoes,16.74,194,"Flores, Smith and Jordan",mdavis@example.org
+2401,card,Men's Clothing,94.28,172,Johnson-Brown,jennablack@example.net
+5644,method,Women's Shoes,66.38,21,Beck Ltd,sharoncole@example.com
+3297,past,Women's Accessories,21.3,175,Terrell and Sons,lawrence47@example.org
+8459,lawyer,Women's Accessories,28.58,155,"Walker, White and Walsh",rcrane@example.org
+7430,behavior,Women's Accessories,59.71,41,Morrison Inc,ureed@example.org
+1291,animal,Men's Accessories,75.6,173,"Ward, Rowe and Solomon",dlewis@example.net
+1319,community,Men's Accessories,74.51,199,Franklin PLC,kimberly95@example.net
+3970,spend,Women's Shoes,59.67,69,Robertson LLC,prestonlopez@example.org
+5950,magazine,Women's Accessories,78.0,40,Wright LLC,gabrielwilliamson@example.net
+5412,little,Women's Shoes,65.24,131,Blevins-Lewis,qroberts@example.com
+3396,business,Men's Shoes,99.0,145,"Hernandez, Brown and Meyer",medinatracy@example.net
+8770,both,Men's Shoes,31.91,123,"Myers, Everett and Davis",xferguson@example.org
+4604,heart,Women's Accessories,57.21,200,"Baker, Davies and Morton",jack26@example.com
+1055,exactly,Men's Clothing,12.77,13,Peterson LLC,oconnelljulie@example.net
+5928,federal,Women's Shoes,75.5,81,"Cox, Bright and Walker",doyleloretta@example.net
+2493,grow,Men's Accessories,83.73,14,Harris-Rodriguez,kathleen14@example.org
+2272,eat,Women's Shoes,57.54,156,Bell LLC,joycelaura@example.net
+2135,degree,Men's Shoes,42.4,196,Hayes-Walters,joshua76@example.com
+4084,sense,Women's Accessories,64.56,66,Daniels-Stevens,baldwineric@example.com
+2215,charge,Men's Shoes,56.83,147,Petersen-Jensen,griffinmichael@example.com
+4263,Mr,Men's Clothing,38.8,167,Daniels-Page,mackenzie19@example.net
+5737,parent,Men's Accessories,44.93,15,Armstrong-Mccormick,rhayes@example.org
+7010,say,Women's Clothing,57.23,126,Allen-Hensley,rodriguezpaula@example.net
+3822,perform,Women's Shoes,65.55,187,"Gilmore, Kelly and Davis",sydneytran@example.org
+1126,mouth,Women's Clothing,17.52,125,"Bailey, Hill and Parks",davidjones@example.com
+9863,today,Women's Shoes,57.79,182,"Patterson, Kelly and Miller",estradaheather@example.net
+4463,group,Women's Accessories,68.09,90,Travis and Sons,valenzuelaryan@example.net
+1796,give,Men's Shoes,61.44,90,"Young, Gordon and Roberts",wperez@example.org
+1508,identify,Men's Shoes,26.94,129,Lee Inc,gperkins@example.org
+3396,school,Men's Accessories,69.36,55,Thornton and Sons,woodsdavid@example.org
+8874,decade,Men's Clothing,45.57,186,"Jacobs, Ross and Wood",angela64@example.com
+5368,appear,Women's Clothing,77.88,191,"Rhodes, Schultz and Williams",barbara82@example.org
+4545,your,Men's Clothing,25.16,154,Cooper LLC,samanthanichols@example.com
+6277,mouth,Men's Shoes,43.11,187,"Delgado, Bates and Humphrey",scott33@example.org
+4816,respond,Women's Shoes,90.29,99,"Williams, Carpenter and Wallace",wfleming@example.com
+7642,serious,Men's Shoes,42.92,33,Moore Inc,uhall@example.com
+3026,national,Men's Clothing,76.35,100,Calderon Ltd,jasminescott@example.org
+3513,head,Men's Accessories,96.69,181,"Smith, Williams and Michael",robertsalison@example.org
+8976,test,Women's Shoes,52.42,46,Palmer-Keith,stevengraham@example.org
+4738,concern,Men's Accessories,93.39,131,Glover Group,schultzrobert@example.org
+6486,author,Women's Accessories,82.93,124,Pham-Davidson,tyleryoung@example.com
+5005,same,Women's Shoes,81.21,127,"Chavez, Mcgrath and Martinez",bowens@example.com
+8470,stop,Men's Clothing,63.41,36,Merritt Ltd,mannchelsea@example.net
+4871,itself,Men's Clothing,53.05,78,Archer LLC,robinsonjeremy@example.com
+7644,statement,Men's Clothing,86.45,152,Reynolds LLC,davisdaniel@example.com
+9637,however,Men's Shoes,53.36,84,"Carey, Williams and Young",torresmary@example.net
+1290,position,Women's Shoes,39.1,89,Bolton-Meadows,qwoods@example.org
+2527,however,Women's Clothing,91.14,197,Suarez-Peterson,qoconnor@example.org
+2712,should,Men's Accessories,55.34,30,Garcia LLC,tmeyer@example.net
+2689,focus,Men's Clothing,62.18,138,"Romero, Edwards and Johnson",christopher84@example.com
+1429,low,Men's Clothing,97.17,125,"Rodriguez, Mays and Collier",downsderrick@example.org
+6576,save,Women's Accessories,29.61,109,Dorsey Group,thompsonmichele@example.com
+3575,couple,Women's Shoes,20.47,31,Lambert-Hickman,thomaschristina@example.net
+6551,account,Women's Shoes,66.65,167,Edwards Ltd,amanda65@example.com
+3813,check,Men's Clothing,15.82,156,"Cox, Guzman and Ortiz",tyoung@example.net
+2136,charge,Men's Accessories,19.63,187,"Allen, Sparks and Garcia",alexander69@example.com
+4718,wife,Women's Shoes,42.36,16,Caldwell-Hernandez,xboyd@example.com
+4497,beat,Women's Accessories,44.34,144,Solis-Calderon,aadkins@example.org
+8516,system,Men's Shoes,90.55,123,Torres-Thomas,bergleah@example.com
+4831,energy,Women's Accessories,60.05,191,Odonnell and Sons,josephmoore@example.org
+2818,actually,Women's Clothing,28.76,84,Mcguire-Welch,jmcmahon@example.org
+3549,establish,Women's Clothing,30.57,145,Nguyen PLC,mgriffith@example.org
+9732,civil,Women's Clothing,13.77,25,Keller and Sons,emilyewing@example.net
+8166,finish,Men's Shoes,78.62,102,Wagner PLC,arowe@example.org
+1730,stand,Men's Accessories,72.73,18,Mack Ltd,nicholas53@example.net
+8190,bit,Women's Shoes,73.23,157,Gordon and Sons,johnsonmichael@example.com
+4417,best,Women's Clothing,51.62,128,Newton-Hernandez,jacksonpeggy@example.com
+4482,natural,Women's Shoes,87.73,21,"Mason, Cox and Munoz",ypowers@example.net
+3895,main,Women's Clothing,77.95,23,Potter Inc,vrivas@example.com
+4813,impact,Men's Accessories,22.69,81,Fuller-Morris,jeffrey61@example.org
+1081,production,Men's Accessories,89.42,34,Fernandez-Sutton,christopherwelch@example.org
+2572,enough,Women's Clothing,77.25,113,Boyd-Carter,gabrielle71@example.com
+6609,wait,Women's Shoes,83.98,127,Frederick-Daugherty,gardnerdavid@example.net
+5171,have,Women's Clothing,25.51,30,Norris Group,jacquelinesmith@example.net
+7251,often,Women's Clothing,41.57,154,Miller Ltd,mitchellstacey@example.org
+9374,without,Women's Shoes,16.66,36,"Henry, Garcia and Bryan",john40@example.net
+7930,join,Men's Clothing,34.64,109,Poole-Evans,brandiphillips@example.net
+5147,both,Men's Shoes,36.21,183,"Weiss, Brown and Hayes",moorejoyce@example.net
+9598,first,Women's Accessories,75.02,93,Smith PLC,catherine28@example.org
+6949,bed,Women's Clothing,60.95,102,Kent and Sons,rebeccalyons@example.org
+7619,compare,Men's Clothing,12.01,74,Scott-Lara,aperez@example.net
+1685,factor,Women's Shoes,73.05,32,Taylor-Christian,rachel07@example.com
+9753,I,Men's Clothing,65.76,12,Roberts-Guzman,ralph14@example.org
+1659,true,Women's Accessories,22.19,124,Dickson-Fields,orozcokimberly@example.net
+1504,difference,Men's Accessories,57.96,51,Keller and Sons,wgarza@example.org
+9662,consumer,Women's Clothing,63.94,120,Robinson-West,arocha@example.com
+3857,agreement,Women's Accessories,84.92,87,"Pitts, Thompson and Garcia",edwardsmichelle@example.com
+1053,everybody,Women's Accessories,23.65,111,Adams Inc,mayergeorge@example.org
+1866,yourself,Men's Accessories,61.37,179,"Roman, Conley and Bailey",jennifer61@example.net
+8308,water,Women's Accessories,44.28,30,Smith-Thompson,myang@example.net
+5325,behind,Men's Clothing,13.82,124,"Lee, Reid and Dennis",hglass@example.com
+6619,range,Women's Shoes,38.89,104,"Russo, Flores and Quinn",nwhite@example.org
+7113,range,Women's Shoes,55.29,57,Jackson-Sullivan,melindaweaver@example.com
+9074,discussion,Women's Shoes,11.18,91,"Trevino, Andrade and Robinson",frodriguez@example.org
+2357,despite,Women's Clothing,17.2,120,Paul-Deleon,derrick63@example.com
+8790,type,Women's Clothing,92.7,88,"Diaz, Shepard and Ortega",alexander52@example.net
+9984,apply,Men's Accessories,80.47,92,Thomas-Taylor,charlotteblack@example.org
+1254,training,Men's Shoes,36.09,72,Hodges and Sons,johnsonmichael@example.org
+1705,agreement,Men's Accessories,63.77,68,"Fernandez, Morales and Delacruz",erica24@example.org
+9642,about,Men's Clothing,67.16,121,"Rice, Solis and Johnson",ryoung@example.com
+2519,foot,Women's Shoes,33.37,184,"Shepherd, Wilson and Lewis",sandersvalerie@example.org
+9754,outside,Women's Shoes,31.19,104,Martinez-Owens,xpacheco@example.com
+2003,myself,Men's Shoes,13.36,84,Jackson Ltd,mary77@example.com
+5149,loss,Women's Clothing,75.72,43,"Norris, Rodriguez and Coleman",jeffreyclark@example.net
+9289,behavior,Men's Accessories,80.74,15,Rollins-Robertson,baldwindebra@example.com
+5619,day,Men's Shoes,24.64,21,"Ford, Wyatt and Moore",leecheryl@example.com
+3419,here,Men's Accessories,65.75,144,"Jenkins, Baker and Richardson",gonzalezfred@example.net
+4744,until,Women's Clothing,51.5,174,Ramirez Group,nicoledickson@example.net
+8907,body,Men's Clothing,16.82,64,Wilson-Barton,coreyroberts@example.net
+9905,very,Women's Clothing,43.0,175,Anderson PLC,qfigueroa@example.com
+9541,PM,Men's Accessories,39.15,92,Williams-Soto,jimenezchristopher@example.net
+5117,many,Women's Accessories,63.3,200,Hodges-Miller,proctorgeorge@example.com
+4363,go,Women's Shoes,87.25,53,Finley LLC,staceysawyer@example.net
+2842,major,Women's Clothing,88.59,110,Macdonald-Houston,lvega@example.net
+3232,discuss,Women's Shoes,16.8,189,Sanchez PLC,montoyamanuel@example.org
+5160,he,Women's Shoes,72.97,10,Marshall LLC,stewartshane@example.net
+3952,bank,Men's Clothing,67.87,124,Lewis-Carter,castanedacassidy@example.net
+7949,audience,Men's Clothing,34.45,199,Blankenship PLC,robert81@example.com
+4281,politics,Men's Clothing,96.5,26,Taylor and Sons,rachel96@example.net
+3066,whose,Men's Accessories,74.22,164,Hughes-Ramos,nwoods@example.org
+2976,employee,Men's Accessories,68.78,82,Cline LLC,joseph16@example.org
+8906,charge,Women's Clothing,90.63,21,"Russell, Moore and Wilson",aliceanderson@example.net
+6204,gas,Men's Shoes,24.73,180,Ramsey-Daniels,nporter@example.net
+6316,cut,Women's Clothing,74.82,88,Francis Ltd,william07@example.net
+4399,idea,Men's Accessories,68.63,76,"Clarke, Dalton and Graves",marissa36@example.org
+6494,issue,Men's Shoes,31.18,83,"Jordan, Hartman and Huynh",alicia80@example.com
+3529,mission,Women's Shoes,31.74,127,Rivas Group,brenda49@example.net
+2521,participant,Women's Accessories,71.78,190,Stout and Sons,vkeller@example.com
+5951,law,Men's Shoes,77.72,47,Schneider PLC,rileysteve@example.net
+7077,choice,Women's Clothing,19.04,33,Rodriguez-Jimenez,mbennett@example.org
+2611,event,Women's Shoes,73.56,107,Jones Group,william21@example.org
+6427,form,Men's Shoes,65.16,152,Vaughn-Walker,jonrogers@example.org
+1315,room,Women's Shoes,65.39,168,Robinson PLC,amydalton@example.net
+7165,true,Women's Accessories,75.75,62,Harper-Smith,daniel25@example.org
+5707,red,Men's Accessories,26.93,55,Morse-Allen,johnwashington@example.com
+9717,thank,Women's Clothing,69.77,185,"Foster, Gardner and Chase",bryanharris@example.net
+3105,us,Women's Accessories,47.67,157,"Pratt, Mcgee and Walker",charlesflores@example.org
+1259,role,Women's Shoes,39.65,168,Patrick-Dixon,gregoryjoshua@example.org
+8235,protect,Men's Clothing,39.62,173,Ortiz-Stanton,brookescott@example.com
+3435,partner,Women's Accessories,70.5,53,Adams-Mckinney,whiteshelley@example.org
+1891,scene,Women's Accessories,79.32,73,Carter-Terry,angela80@example.net
+4961,history,Men's Clothing,68.93,97,"Castillo, Jones and Barker",ericajohnson@example.com
+3744,dog,Women's Accessories,35.2,14,Knox Group,jburnett@example.net
+5773,benefit,Men's Clothing,74.88,48,Green-Wilson,bairdjohn@example.net
+3676,son,Women's Shoes,90.92,193,Taylor and Sons,susanwalker@example.org
+1350,west,Men's Accessories,26.75,72,Wilcox Group,bradleyjacobs@example.com
+6406,step,Men's Accessories,55.31,180,Bryant LLC,vincent87@example.net
+5162,fear,Women's Accessories,64.38,57,"Bass, Brooks and Carr",caleb66@example.org
+6934,miss,Women's Clothing,16.31,122,Lucas Inc,melindabaldwin@example.com
+9562,perhaps,Men's Clothing,11.36,146,"Kirby, Lee and Ray",cartermelinda@example.com
+9741,section,Men's Shoes,65.23,52,Taylor-Mills,rodneymclean@example.com
+4114,hold,Men's Clothing,51.14,128,"White, Brown and Campbell",sabrinaadams@example.org
+2331,skin,Women's Clothing,17.16,162,"Richardson, Watts and Norris",jesselewis@example.net
+7296,pressure,Women's Shoes,85.24,186,Herrera Inc,hutchinsonaimee@example.org
+7011,bag,Women's Clothing,80.03,123,Olson LLC,gwillis@example.com
+5144,thing,Women's Shoes,82.37,145,Galvan-Christensen,cholden@example.net
+5208,recent,Men's Accessories,87.03,135,"Cisneros, Hoover and Jenkins",mliu@example.net
+3670,enjoy,Men's Accessories,20.57,15,"Ramos, Dean and Carney",miguel79@example.net
+9313,when,Women's Clothing,27.98,37,Anthony-Johnson,chasewilliam@example.com
+6358,east,Women's Clothing,95.14,155,"Walter, Brown and Molina",sotojamie@example.net
+4527,security,Women's Accessories,38.35,132,"Potts, Garza and Reid",brittanybentley@example.net
+6328,base,Men's Clothing,10.99,74,Cochran Ltd,gmiller@example.org
+4427,community,Men's Accessories,70.7,64,"Singh, Hall and Haas",alexandercampbell@example.org
+7834,discussion,Men's Shoes,31.96,36,Briggs and Sons,whitescott@example.org
+8213,avoid,Women's Accessories,41.01,54,"Munoz, Evans and Tran",davidmills@example.net
+1691,upon,Women's Clothing,48.7,128,Powers Inc,walterspamela@example.org
+4859,quite,Women's Accessories,28.81,111,Wilson Group,ellismary@example.com
+7106,tax,Men's Accessories,49.82,92,Scott Ltd,tvang@example.net
+1064,sound,Women's Shoes,72.57,195,Schaefer-Johnson,jessicasmith@example.org
+8458,vote,Women's Accessories,31.45,166,Smith-Campbell,mlee@example.net
+7624,culture,Men's Accessories,72.66,40,King-Gonzales,andersonbrandon@example.org
+6772,suddenly,Women's Shoes,68.62,197,Evans-Moore,chandlerjack@example.org
+5299,role,Women's Accessories,48.94,73,Solomon LLC,mmitchell@example.net
+3028,from,Men's Clothing,21.5,126,"Davis, Clark and Cabrera",hbrennan@example.net
+2884,case,Women's Clothing,90.46,98,"Bradshaw, Williams and Woodward",velezaaron@example.net
+2984,memory,Men's Clothing,39.9,149,Robinson Group,shannon10@example.org
+5883,record,Women's Accessories,80.68,24,"Miller, Reyes and Vasquez",fschroeder@example.net
+6753,member,Men's Shoes,65.8,191,Kemp Group,zacharyhayes@example.net
+1411,black,Men's Accessories,59.35,161,Martin Group,heidiandrade@example.org
+1483,enter,Women's Accessories,34.86,165,Lara-Mcdowell,moralescindy@example.com
+1923,bag,Men's Shoes,73.03,54,Garcia-Mcdaniel,sharonsimpson@example.org
+7261,especially,Men's Clothing,61.57,15,Stevenson and Sons,youngraymond@example.com
+5535,less,Women's Accessories,60.34,169,"Mooney, Thornton and Lamb",dgaines@example.net
+1801,audience,Men's Clothing,39.07,162,Gregory-Nguyen,betty36@example.net
+6636,ability,Women's Accessories,83.68,118,"Patel, Soto and Williams",bbryant@example.org
+1893,relationship,Men's Clothing,70.91,185,Williamson-Bautista,ohunt@example.org
+5649,range,Men's Shoes,96.22,200,Parker Ltd,russell69@example.com
+5063,letter,Men's Accessories,83.3,33,Jones PLC,kevin89@example.net
+4340,indeed,Men's Shoes,20.38,178,"Brown, Williams and Freeman",hallmitchell@example.com
+4971,word,Men's Shoes,75.15,17,"Gonzalez, Gibbs and Bautista",sonia87@example.net
+3701,above,Women's Accessories,60.43,110,Lewis-Johnson,leesheila@example.net
+8828,thus,Men's Clothing,68.95,191,"Bailey, Martinez and Wu",whitejennifer@example.com
+9621,page,Men's Shoes,85.37,15,Morris LLC,sarah18@example.net
+6211,dream,Women's Shoes,56.48,62,Heath-Wilson,patrick27@example.org
+4692,president,Women's Clothing,19.99,160,Hernandez-Vincent,chiggins@example.org
+7178,reason,Women's Clothing,67.87,160,Mcintosh LLC,mackdavid@example.net
+6672,unit,Men's Shoes,38.89,23,"Casey, Hayden and Johnson",patricia19@example.net
+2700,number,Women's Clothing,22.96,12,Ewing Inc,hbradford@example.org
+5947,outside,Men's Shoes,75.17,72,Watson-Khan,ogonzales@example.net
+8922,test,Men's Clothing,26.11,92,"Weber, Price and Huang",norriscarlos@example.net
+7438,college,Men's Accessories,51.86,21,"Scott, Green and Shah",cole04@example.net
+9319,within,Men's Shoes,34.12,198,Harris-Brooks,joshuacombs@example.org
+4204,social,Women's Accessories,19.47,120,Combs PLC,kenneth82@example.com
+5301,million,Women's Accessories,58.97,127,"Smith, Shaw and Vaughan",vgreer@example.org
+3412,professor,Men's Shoes,11.4,169,Sanchez and Sons,daniel28@example.org
+3309,past,Men's Shoes,68.57,106,Myers Group,elizabeth30@example.com
+8479,pull,Women's Accessories,98.81,48,"Barker, Thomas and Payne",benjamin64@example.com
+3849,its,Women's Shoes,62.0,143,Thomas-Robinson,hartmankelly@example.net
+6984,effect,Men's Accessories,67.11,164,"Brown, Wilson and Carr",danielnichols@example.net
+4958,politics,Women's Accessories,17.38,186,"Cherry, Miles and Strickland",erojas@example.net
+5146,degree,Women's Shoes,82.04,185,"Taylor, Bernard and Weaver",vazquezrobert@example.com
+4083,campaign,Men's Accessories,70.5,96,Weber-Webb,jessicabradley@example.com
+3939,option,Women's Clothing,28.09,154,"Lee, Noble and Martinez",ibarrett@example.net
+4699,simple,Women's Shoes,72.12,53,Stanley-Carey,whitneysanchez@example.com
+6514,serve,Men's Clothing,39.5,67,Berger Group,michelle04@example.net
+8581,left,Men's Clothing,44.03,156,Brown-King,qjones@example.org
+8018,democratic,Women's Accessories,48.96,168,Brown LLC,xsimon@example.com
+8004,part,Women's Clothing,30.1,189,Horton LLC,victorrivera@example.com
+1386,middle,Women's Shoes,58.36,82,Perez and Sons,zacharylee@example.com
+1444,break,Men's Accessories,74.57,70,Rodriguez-Turner,craiggardner@example.net
+6558,subject,Men's Accessories,50.01,189,"Bryant, Brown and Brown",klandry@example.com
+9920,protect,Men's Accessories,37.67,42,Hudson-Reeves,cmurray@example.net
+1799,when,Women's Clothing,84.84,13,"Collins, Nelson and Walters",emilysantiago@example.net
+5002,support,Men's Accessories,41.9,91,"Carpenter, Flowers and Waters",alexandra46@example.net
+5367,line,Women's Clothing,84.88,72,Brooks-Sanford,curtiswilliam@example.com
+1486,of,Women's Clothing,61.98,133,"Mcguire, Ward and Wallace",anthony93@example.com
+4127,discussion,Men's Clothing,96.0,21,Pena Ltd,smoore@example.org
+3150,store,Men's Clothing,20.27,168,Austin-Price,wclark@example.com
+6087,middle,Men's Shoes,51.22,82,Pena Group,mary29@example.com
+9602,grow,Men's Accessories,13.52,81,"Lynch, Jones and Lang",millermaria@example.net
+8775,force,Men's Accessories,82.05,141,Bird-Wright,steve69@example.net
+4430,us,Men's Clothing,50.94,182,"Lester, Walker and Herrera",lindseyyu@example.com
+1134,write,Men's Accessories,81.17,173,"Hernandez, Foster and Moreno",kimberlyjensen@example.net
+4508,include,Women's Shoes,56.85,165,"Gonzalez, Martin and Dominguez",kennethsweeney@example.net
+6448,hand,Women's Accessories,53.7,164,"Wong, Oconnor and Johnson",icarlson@example.com
+6600,poor,Women's Clothing,82.98,133,Rios-Garcia,lrose@example.org
+6406,every,Men's Clothing,89.51,183,Marsh LLC,elizabeth09@example.com
+9430,experience,Men's Clothing,69.12,181,Reyes-Willis,johndavidson@example.net
+6815,quality,Women's Clothing,54.19,47,"Cummings, Mcgee and Berger",wendyadams@example.com
+8353,key,Men's Clothing,43.0,115,Tyler-Klein,rwilson@example.net
+7503,Republican,Women's Accessories,35.69,103,Campbell-Morrison,dfuentes@example.com
+6078,such,Women's Clothing,41.67,11,Gallagher Group,martinpamela@example.net
+7019,us,Men's Accessories,83.18,155,Lee Group,rdean@example.com
+7229,table,Men's Shoes,28.76,122,Rios Group,cdavis@example.org
+1574,send,Women's Shoes,54.6,45,"Knight, Sherman and Matthews",xsmith@example.org
+7274,south,Women's Accessories,61.13,75,"Patterson, Elliott and Hernandez",hernandezjose@example.org
+3801,receive,Men's Shoes,86.19,92,"Johnson, Wilkins and Sparks",williamskeith@example.org
+2366,local,Women's Accessories,66.37,13,Herman-Barry,crystalfigueroa@example.org
+6599,strategy,Men's Accessories,27.09,32,Sherman-Jones,xporter@example.org
+1721,could,Men's Clothing,48.61,126,"Blackburn, Hull and Scott",harrisonelizabeth@example.net
+4616,government,Women's Accessories,90.26,26,George-Turner,davidhill@example.org
+1458,cover,Men's Shoes,77.3,127,"Gonzalez, Hernandez and Oneill",christophersimmons@example.net
+5198,in,Women's Shoes,81.78,158,Mckee Ltd,mary47@example.com
+4176,side,Men's Clothing,24.3,124,"Henderson, Harris and Zimmerman",jmyers@example.net
+4879,nature,Men's Clothing,95.82,133,Ortiz-Watson,praymond@example.net
+8695,exactly,Men's Accessories,97.75,120,Foster Group,elijah11@example.net
+9791,daughter,Women's Shoes,54.34,11,Johnson and Sons,ymccarty@example.org
+4567,environment,Men's Accessories,56.72,122,Jones Group,richard80@example.com
+1947,prove,Women's Shoes,80.68,140,Foster PLC,larsonjustin@example.com
+9128,contain,Women's Shoes,52.49,185,"Hernandez, Lopez and Smith",molly69@example.org
+3917,throughout,Men's Accessories,46.21,29,"Bennett, Martinez and Byrd",hensleygabrielle@example.net
+8689,hospital,Men's Accessories,35.99,67,"Mcbride, Wong and Morrison",kdrake@example.org
+4709,yourself,Women's Accessories,69.66,31,"Curtis, Galvan and Watts",keith48@example.net
+8618,have,Men's Shoes,47.91,109,Howard Group,bonddana@example.org
+1189,within,Men's Shoes,88.05,25,Mcclure-Curry,philipgreen@example.org
+7117,kitchen,Women's Clothing,49.67,147,Miller Group,james98@example.org
+4287,customer,Men's Clothing,71.64,179,Maldonado and Sons,xfreeman@example.net
+3289,decision,Women's Accessories,50.49,184,Garza Inc,alan89@example.com
+8430,maybe,Women's Accessories,31.79,197,"Smith, Moore and Miller",erica16@example.net
+6221,hit,Women's Accessories,96.63,197,Hill Inc,antoniobarnett@example.net
+4051,realize,Men's Accessories,16.52,24,"Johnson, Sandoval and Carter",stacypitts@example.net
+4975,exist,Women's Clothing,19.34,190,"Jackson, Wagner and Stout",rebecca35@example.com
+7500,scene,Women's Accessories,28.65,185,Thompson-Banks,peter40@example.org
+1085,forget,Women's Accessories,25.03,42,Hernandez Ltd,zchavez@example.com
+6506,environmental,Women's Shoes,96.79,32,"Ayala, Johnson and Porter",holtjustin@example.com
+4664,in,Men's Clothing,78.61,102,"Bates, Gonzalez and Herrera",taylordavis@example.net
+9197,act,Women's Clothing,79.79,142,Davis LLC,justin65@example.com
+8901,network,Women's Accessories,16.24,48,Robinson-Tucker,christy73@example.org
+1107,difficult,Women's Accessories,78.96,133,Thomas-Horton,bcuevas@example.org
+3814,their,Men's Shoes,19.86,187,Carpenter-Scott,zbrennan@example.com
+3095,at,Men's Clothing,87.31,37,Nelson Inc,millerdavid@example.com
+8495,fish,Women's Shoes,33.8,126,Hurley and Sons,jimmyramos@example.org
+7199,significant,Women's Accessories,11.3,169,Miller-Ashley,timothymiddleton@example.net
+5082,necessary,Women's Shoes,55.14,64,Mcdonald and Sons,watkinstyler@example.net
+4469,scientist,Women's Shoes,29.05,107,Schmidt and Sons,vstone@example.org
+2257,job,Men's Clothing,53.69,150,Martinez PLC,carla04@example.net
+2792,concern,Men's Accessories,11.48,83,Pope PLC,nicole91@example.org
+8447,bit,Women's Accessories,60.49,42,Flynn Inc,opage@example.org
+6659,central,Women's Accessories,84.35,176,Mills Group,cristian97@example.org
+4769,explain,Women's Accessories,23.53,167,"Parker, Barton and Jones",jwu@example.net
+9196,fund,Women's Shoes,90.54,122,Sosa and Sons,gmarquez@example.com
+5673,suffer,Women's Clothing,65.35,156,"Adams, Richardson and Lee",jacob79@example.net
+4652,house,Men's Clothing,46.34,35,Johnson-Cox,omartin@example.org
+8879,weight,Men's Shoes,71.67,119,"Webb, Thompson and Miller",matthew50@example.org
+9980,political,Men's Shoes,59.28,118,Lewis and Sons,mwarren@example.net
+1117,before,Men's Accessories,70.79,127,"Kane, Young and Potts",martinsara@example.net
+7460,foreign,Women's Accessories,99.06,12,"Jones, Kelley and Perry",umartinez@example.com
+5660,sometimes,Men's Accessories,50.29,19,"Miller, Olson and Estrada",vaughncarly@example.net
+4820,build,Men's Accessories,53.17,189,Phillips Ltd,whitepeter@example.net
+6124,cup,Men's Shoes,29.84,109,Thompson-Paul,gperez@example.com
+4826,across,Women's Clothing,35.11,102,"Clark, Reyes and Novak",evanslisa@example.com
+5333,part,Men's Shoes,58.56,55,Le PLC,jenniferle@example.com
+1232,analysis,Men's Shoes,77.62,59,Wright Ltd,lopezbrad@example.net
+4907,place,Men's Shoes,86.89,81,Finley Ltd,rebecca20@example.com
+9295,be,Men's Clothing,18.24,27,"Castillo, Hoffman and Price",danielroberts@example.net
+9902,entire,Women's Shoes,73.03,26,"Gardner, Dillon and Johnson",william92@example.com
+3254,also,Women's Shoes,78.72,153,"Mason, Bell and Green",kheath@example.net
+7846,page,Men's Clothing,10.89,12,Greer-Silva,dfields@example.net
+9587,magazine,Men's Clothing,78.37,120,"Stafford, Aguilar and Williams",christopher23@example.net
+9735,place,Women's Shoes,64.65,123,Summers PLC,joshuadavis@example.net
+6525,cover,Men's Accessories,86.31,184,Mcbride-Thomas,michael93@example.com
+1894,music,Men's Accessories,93.74,25,Barnes Ltd,deanna89@example.net
+3531,cultural,Women's Clothing,97.39,180,Hinton-Garrett,leekim@example.net
+5485,material,Women's Accessories,34.7,21,Grant and Sons,michaelbryant@example.org
+6371,score,Women's Accessories,92.77,89,Harper LLC,nday@example.com
+2688,worry,Men's Clothing,44.91,185,"Rios, Clark and Spencer",rebecca64@example.com
+8738,form,Men's Accessories,89.33,31,"Preston, Solis and Nelson",kennedyjason@example.com
+3697,kitchen,Women's Accessories,87.36,143,Thomas-Gutierrez,donna75@example.com
+7945,glass,Men's Accessories,55.96,174,Goodman and Sons,troy39@example.net
+4211,painting,Men's Accessories,89.9,92,"Campbell, Livingston and Jackson",bartonmark@example.net
+6222,better,Men's Shoes,64.81,12,Alexander LLC,edward66@example.net
+8112,second,Men's Accessories,42.96,126,Roberts-Garcia,alexandermorgan@example.net
+5093,thousand,Women's Accessories,84.78,52,Grimes Inc,nicole07@example.net
+9713,floor,Men's Clothing,89.68,42,"Walton, Garcia and Ryan",don33@example.com
+5598,bill,Men's Shoes,74.3,174,"Hunter, Palmer and Jacobson",elizabethparks@example.com
+9373,national,Men's Clothing,39.84,65,Adkins and Sons,rubenrivera@example.com
+7925,seven,Men's Clothing,93.3,26,Hicks-Martin,kellyherring@example.net
+4701,eat,Men's Shoes,46.07,79,Newman-Roberts,rachel09@example.org
+6897,including,Women's Accessories,28.9,102,Smith Inc,billy60@example.org
+5224,responsibility,Men's Shoes,42.47,45,"Gallegos, Rios and Barker",makayla75@example.com
+1626,course,Women's Accessories,34.02,104,Steele Inc,jeffrey18@example.net
+9188,letter,Women's Shoes,49.74,63,Peterson-Rowland,adamskimberly@example.com
+9222,road,Women's Shoes,67.55,177,Peters and Sons,kjones@example.org
+7758,offer,Men's Shoes,97.15,107,Knight Group,johnsonjason@example.net
+4757,through,Men's Accessories,28.2,51,"Phillips, Morales and Lozano",evansjohn@example.org
+4459,somebody,Women's Accessories,46.27,68,Robles and Sons,cgross@example.org
+1858,yet,Women's Shoes,82.06,175,"Carlson, Wilson and Horn",taylor77@example.org
+8307,try,Men's Shoes,91.95,14,White-Wallace,bnguyen@example.org
+7246,once,Women's Shoes,73.4,141,"Davis, Taylor and Baker",cynthiawoodard@example.com
+8190,culture,Women's Clothing,65.61,16,Stevens-Castro,shellybradford@example.org
+3396,care,Men's Accessories,29.9,28,Gonzalez-Prince,bridgessean@example.com
+6692,generation,Women's Accessories,78.75,185,"Nielsen, Lowe and Riley",vgibson@example.net
+8603,product,Women's Shoes,74.86,148,Jones Inc,cynthia14@example.com
+4035,step,Women's Clothing,68.81,125,Roberts Inc,melanie84@example.com
+9745,technology,Men's Clothing,71.05,160,Mclaughlin Ltd,elevine@example.org
+3799,still,Men's Clothing,72.0,151,Young and Sons,hmitchell@example.com
+3265,easy,Men's Accessories,36.76,57,"Hill, Hernandez and Vargas",matthewhatfield@example.org
+7963,reveal,Women's Accessories,68.93,189,Henson-Lowe,frankthomas@example.com
+4305,play,Women's Accessories,26.83,106,Green-Page,stantondavid@example.net
+7333,best,Men's Shoes,56.73,21,Martin Inc,kjensen@example.net
+2649,short,Men's Accessories,38.62,160,Johnson-Wright,luis30@example.net
+2327,garden,Women's Shoes,69.87,94,"Armstrong, Baxter and Blake",mistynorris@example.org
+1017,magazine,Women's Accessories,64.99,103,"Richmond, Griffin and Andrews",xthomas@example.org
+1573,able,Women's Shoes,23.02,149,Richmond-Jenkins,nelsontimothy@example.org
+5383,five,Men's Accessories,24.78,114,Wilcox-Valencia,meredith89@example.net
+7880,member,Men's Clothing,43.94,21,"Huber, Boone and Hill",evelynrodriguez@example.com
+7384,free,Men's Clothing,58.78,24,"Williams, Porter and Miller",craigbrown@example.com
+6717,blood,Women's Clothing,90.56,155,Moore Inc,heather80@example.org
+8078,eye,Women's Shoes,97.46,154,"Long, Gibson and Nunez",wbrown@example.com
+6527,expect,Women's Accessories,13.18,163,Dodson Ltd,james50@example.org
+3595,light,Women's Accessories,64.42,167,"Stevens, Lewis and Brown",hannahadams@example.net
+8452,no,Men's Accessories,13.95,69,"Martinez, Smith and Jones",sarah58@example.org
+7869,notice,Men's Shoes,18.39,168,"Gilbert, Smith and Frank",wilkinsontimothy@example.com
+9077,national,Women's Shoes,72.62,62,Hanson-Ayala,andrea21@example.com
+2629,national,Men's Accessories,63.25,28,Preston-Thompson,victoria69@example.net
+1401,beyond,Men's Accessories,38.51,178,Dominguez-Beck,thompsonscott@example.com
+4769,reduce,Women's Accessories,52.12,77,Stephens Group,ageorge@example.com
+9473,standard,Women's Clothing,15.36,172,"Gordon, Davis and Ray",huertastephanie@example.net
+2940,summer,Men's Accessories,19.37,122,Burke-White,michelle42@example.com
+9486,situation,Men's Accessories,36.54,14,Casey and Sons,ronald36@example.com
+1856,benefit,Men's Shoes,34.55,140,Martin-Lam,jamiedeleon@example.net
+8560,machine,Women's Accessories,35.04,105,Smith-Khan,sonyawilson@example.net
+3881,face,Women's Shoes,49.17,34,Bradley LLC,henry53@example.com
+3595,choose,Women's Shoes,79.57,150,"Clarke, Koch and Weaver",juanwilliams@example.org
+3284,I,Women's Clothing,41.23,90,Castro PLC,xphillips@example.org
+2055,camera,Women's Clothing,32.0,198,Davis and Sons,judylewis@example.net
+8212,business,Men's Clothing,84.31,86,Allen-Baker,nlowe@example.com
+9702,economy,Men's Accessories,26.44,72,"Garcia, Young and Mcdonald",richard65@example.com
+6531,they,Men's Shoes,27.44,49,House-Davis,sharongreen@example.com
+7549,now,Men's Accessories,86.86,115,Rodriguez-Black,areed@example.com
+8177,because,Men's Shoes,58.4,134,Robinson Ltd,victorpatel@example.org
+8817,town,Men's Shoes,79.31,188,Smith-Welch,kcook@example.net
+5914,political,Men's Accessories,46.0,139,Raymond-Poole,leeangela@example.org
+6068,ever,Women's Accessories,69.98,21,Skinner-Davies,sarahgilbert@example.com
+2539,wind,Men's Accessories,38.04,70,"Larson, Perez and Vargas",david67@example.org
+6289,will,Women's Accessories,31.48,79,Stevens-Mahoney,hayesjeremy@example.com
+5192,recently,Women's Shoes,54.35,70,"Erickson, Dodson and Allen",uoliver@example.com
+3725,house,Men's Clothing,41.86,94,Holland-Holt,rachel38@example.net
+3418,similar,Women's Clothing,30.55,20,"Sharp, Ward and Becker",srichards@example.org
+6651,wrong,Women's Clothing,52.92,162,Hamilton Inc,dfisher@example.net
+4223,hold,Women's Clothing,36.36,72,"Bowen, Castillo and Brown",fcline@example.org
+4436,employee,Men's Shoes,97.71,191,Clark LLC,christiancortez@example.org
+4671,story,Women's Shoes,78.02,39,Lester PLC,vkeller@example.org
+1232,sister,Men's Shoes,91.8,148,Schneider Inc,stewartjanet@example.org
+6970,behavior,Men's Clothing,18.83,192,"Wade, Dunn and Lamb",jose63@example.com
+3113,hold,Women's Shoes,80.06,69,"Conley, Hill and Roberson",charlessilva@example.org
+3000,or,Women's Accessories,39.42,108,Taylor-Floyd,serranorebecca@example.net
+6988,beautiful,Women's Clothing,90.19,81,Wilson-Mitchell,ocook@example.org
+9777,would,Men's Shoes,14.65,153,"Miller, Johnson and Johnson",tamara43@example.net
+7056,when,Women's Accessories,44.28,25,"Mitchell, Zuniga and Hester",williamestrada@example.net
+8617,maybe,Men's Clothing,26.76,147,"Hernandez, Proctor and Perkins",cprince@example.org
+5958,mind,Women's Accessories,16.39,140,Mendez-Bullock,sarabarrett@example.org
+9160,approach,Women's Shoes,96.22,153,Rogers-Patterson,deckerlarry@example.net
+2716,expert,Men's Accessories,73.63,51,Colon-Burke,blanchardlisa@example.com
+8153,own,Women's Shoes,58.7,137,Hodge Ltd,keithchristopher@example.net
+5150,appear,Men's Clothing,84.4,45,Williams-Cruz,mosleyvalerie@example.org
+2812,animal,Women's Shoes,95.4,196,"Rodriguez, Clark and Berger",qwatts@example.net
+7210,bar,Women's Shoes,97.81,154,Bullock and Sons,penamikayla@example.org
+7664,way,Men's Clothing,90.89,162,"Lee, Romero and Crawford",gregory30@example.com
+9018,power,Women's Shoes,46.9,192,"Allen, Peterson and Sexton",wesley73@example.org
+4191,occur,Men's Accessories,20.61,62,"Ray, Mckinney and White",hcarpenter@example.com
+9219,world,Men's Clothing,92.15,51,Adkins Ltd,justinhill@example.org
+7828,set,Men's Shoes,27.39,124,"White, Mayo and Johnson",jenniferharris@example.net
+1980,control,Men's Accessories,86.37,166,"Foster, Johnson and King",walkerdaniel@example.net
+2983,data,Men's Shoes,71.92,57,Joseph Inc,christopher86@example.com
+4363,politics,Women's Accessories,72.3,129,"Woods, Harvey and Lynch",paul31@example.com
+6805,network,Women's Accessories,59.77,163,Jackson-Hicks,nicolefarmer@example.org
+3738,method,Men's Clothing,45.73,125,"Vaughn, Collins and Hamilton",amandazavala@example.org
+1695,night,Men's Shoes,93.64,200,"Yoder, Chavez and Jefferson",patricia11@example.com
+5774,high,Men's Shoes,14.01,92,Barrera and Sons,saraharrell@example.org
+1983,sense,Women's Accessories,43.9,22,"Brown, Hernandez and Leon",hamiltonjoseph@example.net
+9508,turn,Men's Accessories,79.44,76,Morgan-Obrien,thompsonbrent@example.com
+2893,window,Women's Clothing,15.74,125,Jones-Serrano,blackjeffrey@example.org
+6038,house,Women's Clothing,24.87,96,"Le, Pruitt and Craig",hannahdavis@example.org
+1909,soon,Men's Accessories,13.77,30,Roberts-Martin,lfranklin@example.com
+8843,wear,Men's Clothing,84.92,174,Foster Inc,oli@example.com
+1329,affect,Women's Clothing,19.88,34,Parrish Inc,paulparks@example.com
+5446,business,Men's Clothing,96.67,57,Smith Ltd,fhaas@example.net
+2819,last,Men's Shoes,56.9,155,Johnson-Contreras,nrocha@example.org
+8810,city,Women's Shoes,62.16,183,"Escobar, Taylor and Peterson",jodiguzman@example.net
+9209,green,Women's Clothing,54.08,106,Nguyen LLC,ckennedy@example.com
+9421,race,Men's Shoes,27.25,196,"Dunn, Cooley and Jackson",biancajordan@example.org
+4277,attention,Men's Shoes,36.75,198,Lane and Sons,caseyscott@example.com
+6124,support,Men's Shoes,13.24,19,Fernandez-Gordon,colemansummer@example.net
+1589,apply,Women's Shoes,74.53,171,Eaton-Stein,juanmitchell@example.net
+2281,consumer,Women's Accessories,93.85,169,Johnson-Ramirez,lisa29@example.net
+2847,investment,Men's Clothing,31.96,32,"Williams, Daniel and Harrison",kpowers@example.com
+4179,important,Men's Clothing,21.02,196,"Hayden, Kelley and Garza",xharris@example.com
+3226,artist,Women's Accessories,53.81,18,"Bonilla, Cox and Robles",pittmanmelissa@example.com
+7977,turn,Women's Clothing,83.97,114,Parker Inc,michealblankenship@example.com
+6975,minute,Men's Clothing,75.16,120,White-Johnson,graydavid@example.com
+5547,source,Men's Shoes,33.04,162,Beck-Hall,ijohnson@example.org
+1833,must,Women's Clothing,58.23,102,West-Wells,lucasmary@example.com
+7257,southern,Women's Clothing,42.25,94,Cross-Mejia,sharonlee@example.org
+7466,morning,Women's Accessories,74.66,198,Watson-Contreras,wongmichele@example.com
+1061,town,Women's Shoes,54.61,86,Robinson Ltd,melissabond@example.com
+2995,claim,Women's Accessories,66.52,25,"Garza, Black and Villa",zhendricks@example.net
+8996,free,Women's Accessories,89.02,193,"Garcia, Burgess and Aguilar",williamfrench@example.com
+4026,who,Women's Shoes,47.85,79,Thompson-Watts,hernandezangela@example.org
+7110,bring,Women's Clothing,77.13,142,Vasquez PLC,jonathanortiz@example.org
+6580,book,Men's Shoes,10.76,146,Gomez and Sons,ymccoy@example.org
+2515,enter,Men's Clothing,23.64,17,Ortiz-Butler,smithjeremy@example.com
+1844,day,Women's Clothing,14.91,32,Cox-Garrett,dhuff@example.com
+4664,growth,Men's Shoes,28.67,64,Fletcher-Levine,villanuevataylor@example.com
+4584,maintain,Men's Clothing,38.64,133,Gray-Lee,adamsherbert@example.org
+1343,include,Women's Shoes,75.41,91,Haley-Whitehead,patricia77@example.com
+8987,sense,Men's Shoes,95.7,69,Evans Ltd,aroberts@example.net
+4624,evidence,Men's Shoes,83.34,74,Aguilar Ltd,yruiz@example.com
+2710,truth,Women's Shoes,15.59,85,Simpson-Stevenson,josephsims@example.net
+9430,cell,Men's Accessories,42.35,37,Davis Ltd,mmorris@example.org
+9394,yet,Men's Shoes,33.3,161,Adams Group,carolowens@example.com
+3153,matter,Men's Shoes,98.16,106,"Clark, Moore and Dunn",deangibson@example.org
+2739,democratic,Women's Shoes,57.67,126,Rogers Ltd,kristin14@example.net
+1243,PM,Men's Accessories,94.6,122,"Blake, Prince and Morgan",mitchelllaurie@example.net
+4672,stand,Women's Clothing,28.13,190,Conner-Johnson,davidhughes@example.com
+9287,effect,Women's Clothing,78.21,92,Atkins PLC,leetiffany@example.net
+2143,way,Men's Shoes,32.62,89,Schneider Ltd,bautistadonald@example.net
+8750,keep,Women's Clothing,57.25,12,Kim Inc,gailortiz@example.net
+2573,develop,Women's Clothing,48.41,162,Benjamin-Dillon,jose42@example.com
+4040,mother,Men's Shoes,28.84,32,Pruitt Ltd,cgomez@example.net
+2516,cover,Men's Shoes,78.84,95,Jones-Ferguson,brian66@example.org
+8405,activity,Women's Accessories,62.7,52,"Grant, Holland and Fernandez",phillip20@example.net
+4445,note,Men's Shoes,49.58,17,Castillo-Cooper,daniel02@example.net
+5030,leg,Men's Clothing,57.45,20,Garrison-Hall,latasha99@example.com
+7653,or,Men's Shoes,19.0,85,Mcclain Ltd,willisshannon@example.net
+1959,hundred,Women's Clothing,56.81,55,Pope-Scott,lowesherri@example.com
+9235,first,Men's Accessories,29.7,18,Duran Ltd,denniskimberly@example.com
+3276,writer,Women's Accessories,97.81,113,Austin Group,kaitlynmack@example.net
+9250,under,Women's Accessories,72.54,175,"Jennings, Reed and Kelly",oyork@example.net
+6755,wrong,Women's Shoes,61.61,60,"Jackson, Vasquez and Gonzales",lnichols@example.com
+2917,example,Women's Shoes,70.33,175,Salazar-Sandoval,moorekristen@example.net
+4097,policy,Women's Accessories,94.57,29,Robinson PLC,jeanette97@example.net
+8876,ten,Men's Shoes,56.86,176,Cummings-Ross,qthomas@example.net
+9995,interest,Men's Clothing,29.53,36,"Evans, Burton and Dougherty",taylor47@example.net
+2272,fund,Women's Accessories,64.55,167,"Taylor, Heath and Montoya",perezdawn@example.org
+9176,serious,Men's Shoes,40.16,82,Pineda and Sons,kbaker@example.org
+7753,almost,Men's Accessories,12.86,13,Taylor-Ward,clintonperez@example.org
+3591,partner,Men's Shoes,56.78,13,Vasquez Ltd,brian57@example.org
+2603,Mrs,Men's Clothing,72.37,149,Rodriguez LLC,cody58@example.org
+9816,authority,Men's Accessories,12.2,53,Howard PLC,jason62@example.com
+3183,particularly,Men's Clothing,66.59,26,Hanson Group,brookemahoney@example.net
+4613,rise,Women's Clothing,23.82,182,"Miller, Arnold and Spencer",sarah32@example.net
+9310,seek,Men's Accessories,99.67,98,Bolton Inc,janet23@example.net
+3153,hope,Men's Shoes,15.68,49,Stanton-Patel,leejonathon@example.org
+7400,religious,Men's Clothing,31.85,62,Perez-Matthews,gharding@example.org
+2088,house,Men's Accessories,78.89,39,Schmidt and Sons,kristen86@example.org
+9417,out,Men's Shoes,83.84,11,Thomas Group,fspears@example.org
+2475,join,Men's Clothing,52.36,165,Hernandez and Sons,wjones@example.org
+9178,network,Women's Accessories,63.64,103,Mcclure-Dominguez,khernandez@example.com
+6897,popular,Women's Accessories,57.01,85,"Lee, Caldwell and Olson",elizabeth13@example.org
+7014,than,Women's Clothing,48.97,127,"Mack, Miranda and Bennett",greggwalker@example.com
+1210,factor,Women's Clothing,18.3,49,"Jordan, Burnett and Wilkins",leah63@example.com
+3481,executive,Men's Accessories,72.5,198,"Green, Garrison and Preston",james62@example.com
+6492,itself,Women's Shoes,17.82,69,Castro Group,jamesleonard@example.net
+2524,finally,Women's Accessories,84.03,74,"Williams, Greene and Lewis",wobrien@example.com
+3534,seek,Women's Shoes,55.61,68,"Adams, Larson and Williams",james55@example.net
+6016,someone,Women's Accessories,27.05,33,"Taylor, Smith and Knight",latashamitchell@example.net
+9126,decide,Men's Accessories,74.09,72,Wise Group,goodwinwarren@example.org
+8076,western,Men's Accessories,87.8,122,"Washington, Myers and Padilla",graychristopher@example.net
+8980,her,Men's Accessories,96.51,157,Ford LLC,daniel86@example.org
+5089,impact,Men's Accessories,24.68,18,"Warren, Willis and Brewer",allenmarie@example.org
+6162,recently,Men's Clothing,73.75,35,Salinas-Campbell,edward16@example.com
+5345,your,Men's Clothing,83.5,198,Hernandez Group,hahnbarbara@example.net
+6876,study,Women's Clothing,34.51,161,"Miranda, Hahn and Goodwin",williemueller@example.org
+2362,fish,Women's Clothing,88.77,141,"Prince, Warner and Guerra",gregory72@example.net
+6841,able,Men's Accessories,36.63,79,Good-Stanley,robert44@example.org
+5777,material,Men's Accessories,58.75,168,"Paul, Garner and Snyder",kingcorey@example.org
+8597,seat,Women's Shoes,78.64,116,Morgan-Hall,lopezvanessa@example.net
+3337,able,Men's Shoes,63.68,15,Long-Castillo,kristin60@example.net
+7472,none,Men's Accessories,10.7,104,Macdonald-Williams,lewisjoseph@example.net
+8836,theory,Women's Shoes,88.82,137,"Swanson, Marsh and Blevins",sarahhill@example.com
+3076,continue,Men's Accessories,91.56,71,Richards Ltd,zwilson@example.org
+6978,create,Men's Accessories,65.18,70,"Morrow, Stuart and Morton",holly96@example.org
+2605,reason,Women's Accessories,71.15,155,Rogers LLC,oneillnancy@example.org
+4471,produce,Women's Shoes,42.0,48,Foster Group,tclark@example.com
+1934,Mrs,Men's Shoes,98.61,29,King Inc,hodgeswayne@example.net
+9368,simply,Women's Shoes,80.24,185,Sanchez PLC,deckerdarius@example.net
+1008,short,Women's Shoes,72.06,184,"Mendez, Carter and Wilcox",petersonbonnie@example.org
+8041,sport,Women's Accessories,68.41,154,Park-Dixon,moraleskelsey@example.net
+9940,have,Women's Clothing,18.24,148,Johnson-Howard,englishlorraine@example.org
+5690,loss,Men's Accessories,28.79,189,"Robertson, Mccormick and Harrington",wjennings@example.org
+5018,I,Men's Accessories,23.48,47,Miller-Diaz,flester@example.com
+1817,president,Women's Shoes,55.67,105,"Mejia, Palmer and Perkins",tlamb@example.net
+1250,human,Men's Shoes,68.35,156,"Bryan, Vaughn and Wagner",michael48@example.com
+5508,including,Women's Shoes,55.56,197,"Hanson, Armstrong and Cook",bryananderson@example.com
+6798,cover,Women's Clothing,99.67,157,"Hamilton, Flores and Martin",drakedanielle@example.org
+1796,field,Women's Clothing,12.89,16,Kelley Group,mitchellbrian@example.net
+3323,no,Men's Clothing,60.69,47,"Marshall, Flores and Mills",garrett21@example.org
+5741,news,Women's Shoes,90.66,154,"Patterson, Anderson and Ford",travisbanks@example.com
+1068,great,Men's Clothing,27.16,111,Nguyen Inc,ujohnson@example.org
+1918,decade,Women's Shoes,15.13,170,Jackson PLC,keithsally@example.com
+6246,central,Men's Accessories,54.38,25,"Wise, Martinez and Hawkins",ricardoortiz@example.org
+1286,over,Women's Clothing,32.07,111,Simpson-Lewis,bmcguire@example.com
+6279,wall,Men's Shoes,71.73,180,Medina LLC,iwilliams@example.net
+2062,pick,Women's Clothing,58.8,184,Ford-Lewis,ndawson@example.org
+8355,skill,Women's Shoes,99.5,149,Miller-Young,darrylboyd@example.com
+9884,present,Women's Shoes,40.7,119,"Mcbride, Dunn and Lewis",xhunter@example.net
+3327,election,Women's Shoes,93.97,50,"Johnson, Hunt and Jones",charlesjane@example.org
+1731,including,Men's Shoes,47.85,160,Perkins-Gonzalez,marissa52@example.com
+3702,three,Men's Clothing,45.49,187,Rios LLC,jacobgarcia@example.net
+8417,rock,Women's Shoes,75.61,33,Wilson LLC,theresaberger@example.org
+1114,bring,Women's Shoes,61.24,138,Mitchell Group,ronnie79@example.com
+2686,final,Women's Shoes,80.43,132,Hernandez-Lloyd,parkeraaron@example.com
+4657,that,Women's Clothing,99.6,24,"Hicks, Singleton and Henry",scottalyssa@example.com
+4758,assume,Men's Accessories,27.75,41,"Barr, Smith and Moore",jonesandrew@example.com
+1073,describe,Men's Accessories,90.8,135,Thomas Inc,hilljennifer@example.com
+3766,hear,Women's Accessories,21.35,182,Potter-Shields,daniel15@example.com
+2276,serve,Men's Shoes,89.23,62,Wood-Ryan,amanda85@example.net
+2006,Mr,Women's Clothing,55.4,68,"Carr, Roman and Edwards",josephjones@example.com
+6284,during,Men's Shoes,80.24,86,Medina Inc,hlee@example.com
+4362,perhaps,Men's Clothing,52.51,26,"Medina, Mills and Buchanan",sheri87@example.com
+2706,out,Women's Shoes,14.67,134,Hartman-Griffin,fclayton@example.com
+6095,military,Men's Clothing,25.42,133,Butler-Nixon,anitamiller@example.net
+4665,environmental,Men's Accessories,12.14,122,"Woodard, Jones and Morris",gonzalezkimberly@example.com
+2631,already,Men's Shoes,42.89,46,Case and Sons,davidjones@example.com
+8768,whole,Women's Clothing,57.07,70,Wood Group,garciadaniel@example.com
+1693,leg,Women's Shoes,28.62,118,Schmidt-Chan,jonessara@example.net
+9411,offer,Women's Accessories,29.75,30,"Green, Barton and Ramos",bryan98@example.net
+1218,section,Women's Clothing,67.29,142,Foley Inc,kevin23@example.net
+2712,Mrs,Men's Shoes,18.93,192,Gates Ltd,paulorozco@example.org
+7615,receive,Men's Accessories,26.06,102,"Rogers, Hendrix and Cherry",edwin13@example.net
+9076,everybody,Women's Shoes,18.21,160,Walker-Welch,anthony47@example.org
+7543,her,Women's Clothing,86.81,13,Ellis-Ellison,heatherrobinson@example.com
+7547,different,Women's Accessories,28.13,17,Saunders LLC,carrie92@example.net
+1304,total,Women's Accessories,11.07,64,Rogers and Sons,acook@example.com
+6775,usually,Men's Clothing,61.23,161,Riley Group,arose@example.com
+7324,responsibility,Women's Shoes,60.72,121,Pruitt-Long,dakotahawkins@example.org
+1084,go,Women's Accessories,24.66,26,"Scott, Noble and Harris",pwilliams@example.com
+1982,minute,Women's Shoes,30.31,144,"Norris, Lee and Coleman",ryannichols@example.com
+8506,have,Women's Shoes,68.27,31,Mendoza PLC,esimmons@example.net
+8398,pick,Men's Accessories,65.58,63,Pearson and Sons,rebecca62@example.net
+7435,under,Men's Accessories,95.05,197,Zimmerman-Rogers,greenrandy@example.org
+5078,guy,Women's Accessories,50.36,80,Johnson PLC,morganfaith@example.org
+9425,organization,Men's Accessories,38.37,200,Vargas-Shaw,brittneywashington@example.org
+1454,smile,Men's Accessories,13.62,100,Burgess-King,shanewilliams@example.net
+2947,remain,Women's Clothing,87.38,105,Hughes PLC,hlee@example.org
+4260,threat,Women's Accessories,52.66,189,Hodge-Austin,jeremy44@example.com
+7180,financial,Women's Accessories,98.16,133,Collins LLC,jennifer24@example.org
+8699,different,Women's Shoes,22.43,29,King PLC,sherri24@example.net
+6077,agreement,Men's Clothing,49.22,61,Rodriguez-Shannon,fgray@example.net
+6721,still,Men's Accessories,47.04,52,Hudson Group,tamilopez@example.net
+7112,production,Men's Accessories,68.0,46,Long LLC,czimmerman@example.com
+1431,board,Women's Clothing,85.18,75,Johnson-Ward,cassandrabowen@example.com
+8029,face,Women's Accessories,49.59,138,"Taylor, Howe and Brennan",gary99@example.net
+1918,prepare,Men's Clothing,50.37,81,Brown-Rowland,xday@example.org
+6098,crime,Women's Clothing,15.99,183,Aguirre-Adams,steven94@example.net
+8789,player,Women's Clothing,69.33,124,Gallegos PLC,morgan66@example.org
+1626,science,Women's Accessories,14.96,48,Bartlett and Sons,megan49@example.com
+2204,manager,Men's Clothing,21.08,31,Baldwin-Mathis,chapmankrystal@example.net
+2448,actually,Men's Clothing,71.69,110,Potter and Sons,christopher15@example.net
+6493,whether,Women's Clothing,77.49,65,"Rivas, Kaiser and Smith",hlee@example.com
+1236,certainly,Women's Clothing,58.64,187,Prince-Leblanc,opark@example.com
+6876,compare,Men's Shoes,86.98,165,"Butler, Ferguson and Shaw",caseyleonard@example.org
+9661,change,Women's Shoes,13.11,54,Fisher Ltd,espinozabecky@example.com
+7820,difficult,Women's Clothing,80.12,12,"Rivera, Davis and Wright",flemingchristopher@example.org
+1918,sing,Men's Shoes,91.63,82,Crawford-Faulkner,shane51@example.org
+5773,bed,Women's Accessories,25.64,163,"Weber, Romero and Nicholson",michaellara@example.net
+3309,share,Women's Shoes,40.64,72,"Ellis, Sloan and Davis",lori39@example.org
+8056,million,Women's Shoes,94.48,186,Henderson and Sons,madisonaustin@example.org
+7608,under,Women's Accessories,70.97,149,Richardson LLC,john71@example.org
+2353,among,Men's Accessories,50.57,66,"Marshall, Smith and Gutierrez",katherinehale@example.com
+4574,sit,Men's Accessories,79.76,135,Boyer and Sons,sarahenglish@example.org
+3347,enter,Men's Accessories,86.71,49,"Vargas, Perkins and Berry",kgonzalez@example.com
+4857,live,Women's Clothing,54.35,49,Valencia Group,charlene82@example.com
+8467,person,Men's Clothing,46.24,190,Williams-Singleton,cjordan@example.com
+6002,management,Men's Clothing,67.84,170,"Jones, Foley and Fry",monique70@example.net
+4380,practice,Men's Accessories,79.11,85,Martin Group,timothy34@example.net
+2718,difficult,Men's Clothing,42.02,15,Le-Pittman,jody28@example.net
+2989,visit,Men's Clothing,23.81,77,Campbell-Gillespie,vincentkelli@example.net
+6330,speak,Women's Shoes,42.76,106,Brown-Maddox,martinezsusan@example.com
+2854,operation,Men's Shoes,56.84,129,Wade LLC,garrettcunningham@example.org
+2687,health,Men's Clothing,14.67,133,Gonzalez Ltd,curryjames@example.net
+7990,operation,Women's Accessories,95.3,38,"Davis, Nelson and Pacheco",cassidyyoung@example.org
+4222,purpose,Women's Clothing,24.73,154,"Holden, Hudson and Henry",mgibson@example.org
+3758,receive,Men's Clothing,84.24,103,White and Sons,xwhite@example.com
+6485,amount,Men's Accessories,19.18,163,Estes LLC,borozco@example.com
+3535,economic,Men's Accessories,48.67,141,"Horton, Hernandez and Newman",youngsusan@example.net
+2134,maybe,Women's Clothing,76.1,116,Martin and Sons,qmoss@example.net
+1377,born,Women's Clothing,90.37,58,Mccarthy PLC,roger72@example.org
+2004,father,Men's Clothing,60.07,86,"Nixon, Dixon and Johnson",michael35@example.net
+4604,may,Women's Clothing,81.04,157,Holmes-Rivera,osbornkevin@example.net
+4321,consumer,Women's Clothing,19.69,195,Smith PLC,elizabethrichardson@example.com
+2785,year,Men's Accessories,53.66,111,Walker Group,williamsmichael@example.com
+7361,mind,Men's Clothing,39.86,143,Bailey-Kim,hstewart@example.com
+8636,decade,Men's Accessories,64.57,163,Prince-Herrera,brandon55@example.net
+6287,dream,Women's Accessories,12.43,93,Turner Group,danielpeters@example.com
+7177,none,Men's Clothing,68.79,43,Solis LLC,triciazimmerman@example.net
+9794,bag,Women's Accessories,73.26,141,"Martinez, Morris and Spears",adkinsethan@example.com
+3074,surface,Men's Accessories,81.16,164,Davidson-Green,crystalcook@example.com
+2587,on,Women's Shoes,16.94,123,Taylor Ltd,kcooke@example.com
+7288,visit,Women's Shoes,80.79,33,"Hodge, Deleon and Potts",ricky84@example.org
+7194,finish,Women's Clothing,90.75,83,Henry-Chang,justin36@example.com
+3560,past,Women's Clothing,50.5,24,Baker-Klein,alisonhill@example.com
+9244,student,Women's Clothing,41.82,31,Silva-Evans,williamlang@example.net
+6523,discussion,Men's Accessories,70.86,144,Hudson Inc,danielle53@example.com
+6505,floor,Men's Clothing,75.71,121,Davis-Hawkins,jeffclark@example.net
+5599,after,Women's Shoes,69.98,179,"Reid, Chapman and Ramsey",henrytracey@example.net
+7740,development,Men's Clothing,49.06,117,Butler-Peterson,stevenrivera@example.com
+1566,result,Women's Accessories,68.0,71,"Larson, Robertson and Calhoun",shawn27@example.org
+3361,form,Women's Shoes,75.72,86,Barnes-Mccullough,vbenson@example.net
+9950,hard,Men's Accessories,88.99,44,Rodriguez-White,laurahammond@example.com
+2831,take,Men's Accessories,23.61,180,Whitney-Smith,dryan@example.org
+7928,wish,Women's Shoes,37.41,153,Thomas Ltd,jennifer75@example.net
+5101,standard,Men's Clothing,27.49,10,Reed Inc,atkinsondavid@example.org
+3896,whole,Women's Clothing,47.04,178,"Carr, Key and Gay",xneal@example.org
+4973,most,Men's Clothing,14.13,142,"Cameron, Martinez and Golden",erinmorris@example.org
+4773,note,Women's Accessories,90.69,56,Humphrey-Brown,knightjennifer@example.org
+1440,later,Men's Accessories,50.03,58,Mcfarland Inc,richard29@example.org
+4372,our,Men's Shoes,25.98,200,Bailey LLC,reyesdavid@example.com
+9452,leader,Women's Accessories,23.31,76,Galvan and Sons,latoyarichardson@example.net
+1872,past,Men's Accessories,59.93,110,"Johnson, Jackson and Smith",carrsheila@example.org
+2267,wife,Men's Clothing,39.39,110,Harris and Sons,katherine19@example.org
+5748,line,Men's Accessories,23.06,175,Moore-Pham,mjohnson@example.org
+5409,media,Men's Shoes,35.79,164,Chavez-Beard,grantnicole@example.com
+9268,former,Men's Accessories,21.69,81,Smith-Holden,jordannicholas@example.com
+5640,dark,Men's Shoes,71.63,99,Flores-Thompson,rmooney@example.net
+5458,use,Women's Shoes,32.8,95,Schultz-Moore,angelavargas@example.com
+2654,not,Men's Shoes,23.6,30,"Williams, Velasquez and Fuentes",duncanmatthew@example.com
+9167,however,Women's Accessories,51.54,154,Ferrell-Moore,nicholas45@example.net
+5699,difference,Women's Shoes,51.29,93,Campos LLC,scottflowers@example.net
+1086,never,Women's Clothing,13.91,110,Moses-Anderson,ehoover@example.net
+9459,exist,Men's Shoes,36.53,26,Carpenter Group,cathypena@example.com
+4821,population,Women's Shoes,99.3,40,Coffey-Taylor,smithchristian@example.org
+5475,cup,Men's Shoes,61.25,31,"Gordon, Lynn and Barnes",underwoodkara@example.net
+5094,recent,Men's Clothing,87.04,11,"Garza, Thompson and West",mendezrebecca@example.com
+7395,suffer,Women's Accessories,32.94,29,Bonilla Ltd,kurt35@example.net
+9161,drug,Men's Shoes,37.77,189,Davis-Smith,ipetersen@example.org
+7044,when,Men's Shoes,69.15,87,Webster-Smith,robbinscraig@example.org
+2973,college,Men's Shoes,80.55,36,"Williams, Baker and Mullen",adavis@example.com
+4902,all,Men's Shoes,72.95,197,"Wilson, Vega and Dodson",grahamtravis@example.org
+5874,conference,Women's Shoes,89.14,138,"Gonzales, Summers and Spencer",richardterry@example.net
+9002,while,Women's Accessories,92.88,12,Bradley-Hernandez,fwiley@example.org
+7213,American,Women's Shoes,84.99,184,Beard Ltd,courtney48@example.com
+9649,capital,Women's Accessories,71.39,145,"Crane, Moore and Hartman",cmyers@example.com
+6474,discuss,Men's Accessories,89.9,168,"Franklin, Jones and Sanchez",jwashington@example.net
+1578,number,Men's Accessories,16.84,22,Harrison Group,dennismorales@example.com
+6456,could,Women's Shoes,72.29,89,"Daugherty, Pierce and Yang",jennifer56@example.net
+4492,or,Women's Shoes,82.49,96,"Payne, King and Fry",sydney65@example.net
+6495,capital,Women's Clothing,70.31,54,"Martin, Warren and Singh",jamesmorse@example.org
+3136,morning,Women's Clothing,77.69,87,Gonzalez-Boyd,josemccarty@example.net
+2657,bill,Men's Shoes,94.51,22,Arnold and Sons,mitchellemma@example.net
+1342,office,Women's Clothing,96.85,177,"Nguyen, Foster and Key",crystal01@example.org
+2175,tonight,Men's Clothing,10.44,117,"Bridges, Frey and Mullen",corydillon@example.com
+5567,note,Women's Clothing,59.89,73,Johnston LLC,vfleming@example.net
+1330,democratic,Women's Accessories,44.22,199,"Brown, Smith and Jackson",berryariana@example.org
+2272,since,Women's Accessories,97.45,128,Lopez-Lopez,tapiatony@example.net
+5424,give,Women's Clothing,40.9,86,"Walker, Mills and Payne",kristi65@example.com
+4314,type,Men's Accessories,69.4,35,Young-Sanchez,mhill@example.org
+6993,share,Men's Clothing,84.18,54,Ryan-Owen,mendozasarah@example.com
+2566,dog,Men's Accessories,69.06,38,"Kent, Fleming and Ramsey",cynthia05@example.org
+1920,talk,Men's Shoes,36.41,101,"Mejia, Green and Bowen",garrettvasquez@example.com
+9307,material,Men's Shoes,66.35,98,Wilson and Sons,mandy16@example.com
+3434,know,Men's Accessories,30.16,116,"Haley, Figueroa and Yoder",jennifermoyer@example.org
+3566,three,Women's Accessories,54.95,53,Pugh Group,mitchellsusan@example.com
+4441,quite,Men's Accessories,63.68,184,Rowe Ltd,crawforderin@example.net
+7544,oil,Men's Shoes,97.39,172,Garcia-Walker,christopher52@example.net
+1367,charge,Men's Clothing,44.15,199,Mayer Inc,daniel64@example.com
+6747,really,Women's Accessories,96.64,168,King LLC,sanchezjames@example.net
+7490,star,Men's Clothing,74.02,87,Williams-Butler,jdyer@example.net
+6479,movement,Men's Shoes,15.84,42,Perez-Stewart,nathan51@example.com
+7957,almost,Men's Accessories,18.02,92,"Mcfarland, Contreras and Robinson",jasonwilliams@example.org
+7195,apply,Women's Clothing,33.02,90,"Stanton, Salinas and Skinner",chad12@example.org
+7699,pull,Women's Shoes,11.66,23,"Lee, Hernandez and Sutton",kimberlymorales@example.org
+4764,hot,Women's Accessories,13.01,150,"Norris, Rodriguez and Johnson",rebecca14@example.org
+2754,chance,Men's Clothing,61.66,155,Thompson and Sons,kennethschwartz@example.org
+4323,help,Women's Accessories,18.37,127,"Campbell, Bautista and Ryan",brownkyle@example.org
+2520,analysis,Men's Clothing,50.14,112,Tran-Jordan,nicolehood@example.net
+8777,suggest,Women's Shoes,68.21,141,Mitchell PLC,christopherdaniels@example.org
+6698,reflect,Men's Shoes,51.32,34,Wood and Sons,laura93@example.net
+9200,back,Men's Accessories,98.12,82,Bauer Ltd,orozcoamy@example.org
+3427,become,Men's Clothing,67.8,84,Green PLC,williamhernandez@example.net
+7360,production,Men's Shoes,55.65,50,Cole Ltd,amandagrant@example.net
+5841,last,Men's Clothing,12.33,165,Martin Inc,angelbenjamin@example.com
+5545,with,Women's Clothing,74.81,159,Williamson-Kelley,zlara@example.org
+4571,window,Women's Shoes,98.61,198,Mcknight-Meyer,valeriewalters@example.org
+3140,national,Men's Shoes,98.02,54,Young-Mcdowell,ehicks@example.com
+8368,church,Women's Clothing,17.95,187,Wheeler Ltd,hmays@example.com
+2897,she,Men's Clothing,86.41,60,Murray Inc,stewartcassie@example.org
+5495,act,Men's Accessories,23.02,185,"Avila, Woodard and Mcdonald",susandavis@example.com
+7424,listen,Men's Clothing,21.23,40,Nelson-Lopez,stephanie86@example.net
+7107,true,Men's Shoes,69.17,163,Lopez Group,orivers@example.net
+8825,former,Women's Accessories,90.41,39,Davis-Anderson,jonesmarcia@example.com
+8179,available,Women's Shoes,99.68,147,Rodriguez-Cantu,ckennedy@example.net
+1918,adult,Women's Shoes,12.12,89,Johnson and Sons,santosmatthew@example.net
+6942,ask,Men's Clothing,55.1,152,"Ballard, Newton and Edwards",hogangabrielle@example.com
+2689,against,Women's Shoes,15.0,16,"Holloway, Costa and Wood",sara15@example.net
+6921,interest,Women's Clothing,55.51,46,"Cummings, Tyler and Leblanc",yujohn@example.com
+8650,itself,Women's Shoes,78.47,95,"Mcmahon, Mcmahon and Weber",tayala@example.com
+9093,compare,Women's Clothing,53.55,43,Boyer-Bell,kpowell@example.org
+7255,break,Women's Shoes,50.44,33,Reynolds PLC,vgonzales@example.net
+7588,day,Women's Clothing,20.9,174,Fitzgerald-Harris,leslie33@example.com
+7428,remain,Women's Shoes,50.86,120,Taylor-Olsen,albert00@example.com
+6579,social,Women's Clothing,42.98,119,"Duke, Gould and Miller",lbarnett@example.net
+6132,father,Men's Clothing,62.35,103,Martinez-Crane,jennifer87@example.com
+8244,best,Women's Clothing,80.05,164,"Andrews, Haney and Mccall",tracy05@example.net
+3954,source,Women's Clothing,69.61,116,Mitchell Ltd,qwebb@example.net
+3402,account,Men's Shoes,97.57,64,Davis-Washington,zcarter@example.org
+3317,idea,Men's Shoes,69.14,59,Wilkinson Group,manncynthia@example.net
+1938,director,Women's Shoes,16.85,133,"Murphy, Gomez and Meyer",savagechristopher@example.org
+1290,teach,Women's Shoes,14.73,51,Diaz-Simon,gomeznicole@example.net
+8023,war,Women's Shoes,52.15,35,Gomez-Rocha,dunlapkevin@example.org
+7675,front,Men's Clothing,58.32,94,"Parker, Meyer and Payne",jeffreyjarvis@example.com
+7923,organization,Men's Clothing,90.38,162,Edwards PLC,klopez@example.net
+2994,answer,Women's Shoes,54.03,44,"Perry, Carroll and Jackson",pthomas@example.com
+7849,season,Men's Shoes,47.56,71,"Gonzalez, Lindsey and Martin",vsoto@example.net
+3921,central,Women's Shoes,59.95,53,Scott Ltd,smithmichele@example.com
+2054,evidence,Women's Shoes,51.27,29,"Campbell, Ramos and Mason",dyernancy@example.com
+8153,position,Men's Accessories,33.5,117,"Lee, Salazar and Roberts",audrey54@example.com
+8444,risk,Women's Shoes,67.59,190,"Anderson, Downs and Wolf",amandalozano@example.net
+3923,middle,Men's Shoes,69.97,53,"Gordon, Perez and Smith",vpeterson@example.net
+1427,game,Women's Accessories,69.24,197,Underwood LLC,andrea85@example.net
+3420,none,Men's Accessories,10.89,154,James Inc,pottermichael@example.net
+5562,old,Men's Clothing,65.01,166,"Aguirre, Garcia and Ward",qramos@example.org
+4955,per,Women's Shoes,81.98,99,Curry-Campos,nmontgomery@example.com
+2792,try,Women's Accessories,87.14,38,Mitchell PLC,brice@example.com
+2463,care,Women's Clothing,63.42,177,Sanchez-Jimenez,hernandezelizabeth@example.com
+5392,task,Men's Accessories,17.55,192,"Dixon, Morse and Hutchinson",oclark@example.org
+2618,quickly,Women's Shoes,77.19,121,Lee-Smith,amber97@example.net
+5351,wife,Women's Shoes,37.48,78,Herman-Taylor,ryan86@example.org
+1020,face,Men's Clothing,48.34,66,Rose-Foster,elizabethjackson@example.org
+2390,a,Men's Clothing,78.21,194,Chapman-Zavala,gregorymoody@example.net
+2656,source,Men's Shoes,19.61,105,Weiss-Murphy,oashley@example.org
+5323,radio,Men's Shoes,57.52,183,Clark-Howard,victorbell@example.net
+4608,thought,Men's Clothing,35.39,51,"Johnson, Patterson and Andersen",perrygeorge@example.net
+1186,year,Women's Clothing,81.87,200,Perry and Sons,qsmith@example.net
+7457,attention,Women's Shoes,58.78,29,Robbins PLC,jameskirby@example.com
+8144,able,Women's Accessories,98.33,184,"Matthews, Hanna and Russell",shelly39@example.com
+8983,build,Men's Shoes,26.52,40,Clark Ltd,brian52@example.com
+5819,seven,Men's Shoes,23.92,39,Hess-Perez,leonard18@example.net
+2176,western,Women's Shoes,19.01,80,Mathis PLC,kimberlyhill@example.org
+9678,eat,Men's Shoes,76.72,180,Whitney-Figueroa,ihall@example.net
+3584,soldier,Men's Shoes,42.11,158,"Mahoney, Ryan and Tucker",jeffrey29@example.org
+9724,goal,Men's Clothing,54.73,86,Reyes-Hunt,deleonjohnny@example.org
+6215,seek,Men's Shoes,57.64,163,White-Gates,stacie13@example.net
+3848,bank,Women's Accessories,58.76,102,Cruz-Hernandez,jesse04@example.net
+2372,least,Women's Accessories,31.89,31,Murphy PLC,dsmith@example.net
+7647,pressure,Women's Clothing,34.68,15,"Miller, Flowers and Owens",williammorrison@example.org
+3468,especially,Men's Shoes,86.0,89,Smith LLC,brownnicole@example.net
+4201,picture,Men's Accessories,22.68,69,"Reynolds, Evans and Anderson",wcastro@example.com
+7565,mouth,Men's Clothing,51.27,159,Graves-Miles,lisa73@example.com
+5482,respond,Men's Accessories,15.46,29,Nelson and Sons,cjones@example.com
+3660,tree,Men's Clothing,29.69,35,Garcia PLC,urogers@example.com
+9279,Democrat,Women's Clothing,95.56,107,"Russell, Robinson and Clayton",rodriguezdawn@example.net
+4609,throw,Men's Accessories,84.84,92,"Oconnell, Scott and Jordan",debracortez@example.org
+5429,us,Men's Shoes,83.09,20,"Richardson, Allen and Vasquez",pachecolisa@example.com
+3910,major,Women's Shoes,29.13,111,Franklin-Moreno,joseph37@example.org
+3895,can,Men's Accessories,65.58,19,"Little, Gallegos and Ortiz",stevensonisaac@example.net
+6454,rest,Women's Accessories,50.54,54,Rogers-Jacobs,cameronwebb@example.net
+5517,economic,Men's Clothing,68.73,70,"Freeman, Delacruz and Foster",cayers@example.net
+4983,will,Men's Shoes,73.89,145,Davis PLC,morganspencer@example.org
+4098,company,Women's Accessories,87.94,166,Beasley-Fox,thompsonlynn@example.org
+1534,fine,Women's Clothing,49.97,45,"Suarez, Hughes and Griffith",rhondajohnston@example.net
+7793,under,Women's Clothing,99.52,47,Fletcher PLC,olivertroy@example.org
+9505,sure,Men's Clothing,36.88,58,Alvarado Ltd,handerson@example.net
+5112,challenge,Men's Clothing,54.55,168,"Smith, Mathis and Lewis",brenda93@example.com
+9524,teacher,Men's Shoes,17.76,111,"Wilson, Adams and Rodriguez",thomasdakota@example.org
+1066,our,Men's Shoes,35.77,43,Davis Group,wongmeghan@example.com
+6036,cover,Men's Accessories,62.91,182,Chandler Inc,robingarza@example.org
+9495,leg,Men's Clothing,85.1,52,Weeks-Daniels,millerjames@example.org
+3203,condition,Women's Shoes,39.41,156,Freeman-Hernandez,jefferymiddleton@example.net
+2015,evidence,Men's Shoes,94.6,44,Kennedy-Austin,iball@example.org
+6858,plant,Women's Accessories,93.27,43,Blair LLC,michelle32@example.com
+7440,evidence,Men's Clothing,89.9,142,Nelson-Greene,fmartin@example.org
+3246,customer,Men's Accessories,74.24,24,Haney-Torres,davidpatterson@example.net
+6929,machine,Women's Accessories,32.61,30,"Trevino, Gregory and Flores",lindsaybeltran@example.net
+7676,economy,Men's Accessories,69.03,74,Carter and Sons,swalsh@example.net
+9817,view,Men's Shoes,67.02,168,Young-Richard,priceallison@example.org
+5712,test,Women's Accessories,22.15,76,Decker Group,sara70@example.com
+4467,network,Men's Clothing,45.18,131,"Johnson, Park and Johnson",leesamuel@example.org
+5949,college,Women's Clothing,87.68,132,Hammond Group,allison00@example.com
+1741,west,Women's Accessories,57.25,145,Hernandez Ltd,hardinraven@example.org
+8746,some,Women's Shoes,33.05,66,"Liu, Alexander and Lowe",tyler85@example.com
+1435,suddenly,Men's Accessories,77.61,157,"Taylor, Patel and Martin",dylan62@example.net
+5772,large,Men's Accessories,56.98,128,"Collins, Romero and Duffy",fieldsian@example.net
+2633,themselves,Women's Clothing,49.19,138,Davis-Davis,fwhite@example.org
+2265,nice,Women's Shoes,14.55,198,"Lopez, Sweeney and Young",freemanpatricia@example.org
+3249,test,Men's Clothing,60.43,116,Mcgee Inc,perrychristopher@example.net
+5243,person,Women's Accessories,54.55,14,"Johns, Cooper and Cole",victorwilcox@example.org
+2417,great,Men's Shoes,54.17,83,Cruz Ltd,susanpreston@example.org
+8978,few,Men's Clothing,57.65,116,Newman Group,robert47@example.net
+6017,likely,Women's Shoes,23.42,109,White Group,brittneygallegos@example.net
+3809,no,Men's Shoes,18.37,142,Davis and Sons,shelley53@example.com
+1090,your,Women's Accessories,27.24,12,Osborn Ltd,emilywilson@example.net
+5122,character,Men's Clothing,68.55,129,Williams-Diaz,charlescruz@example.net
+8555,religious,Men's Accessories,74.73,143,"Maxwell, Romero and Fox",matthew65@example.com
+1780,actually,Men's Clothing,84.8,42,Jones-Williams,murphypatrick@example.net
+4547,important,Men's Shoes,13.54,97,"Jones, Mclaughlin and Scott",wrightjason@example.net
+5956,news,Women's Clothing,33.66,89,Bradley LLC,hbarton@example.org
+9710,mind,Men's Clothing,11.73,90,Sullivan Ltd,normafowler@example.com
+5714,sit,Women's Shoes,93.4,186,Nelson Ltd,nicolerose@example.com
+1623,cold,Men's Shoes,28.41,90,Morgan-Miller,pattersonrobin@example.net
+8542,not,Women's Accessories,16.95,59,Andrews PLC,benjaminthompson@example.net
+5821,tend,Women's Accessories,55.79,113,"Sanchez, Thomas and Walters",qflores@example.org
+2198,opportunity,Women's Shoes,15.81,51,Ewing-Mckenzie,johnsonmelissa@example.com
+7350,attention,Men's Clothing,83.03,17,Howard-Ortiz,bsanchez@example.org
+7560,treatment,Women's Clothing,18.18,191,"Young, Smith and Black",shannonallen@example.com
+6062,less,Women's Shoes,42.56,130,"Wood, Diaz and Maynard",lisamartin@example.com
+1405,who,Men's Shoes,27.15,86,"Crosby, Salas and Garcia",johnny19@example.net
+5758,anyone,Women's Clothing,90.24,90,Vargas Ltd,christopher54@example.org
+8581,charge,Men's Shoes,50.58,90,"Gordon, Hill and Schultz",andersonelizabeth@example.com
+4104,foot,Men's Shoes,48.77,161,Roberts Inc,courtney96@example.org
+6707,small,Women's Accessories,71.75,133,Carter LLC,kwatts@example.net
+9653,kid,Men's Accessories,68.32,92,"Charles, Friedman and Brown",qking@example.com
+8383,side,Women's Shoes,46.16,135,"Jones, Garcia and Smith",allenvaldez@example.net
+1675,surface,Men's Clothing,64.57,41,"Floyd, Torres and Wright",dwerner@example.com
+9294,participant,Men's Accessories,99.64,175,Diaz-Horn,justinbond@example.net
+5457,huge,Men's Shoes,16.51,105,"Lewis, Hess and Thompson",zriggs@example.org
+4503,now,Men's Clothing,72.89,14,"Fowler, Mcpherson and Atkinson",jessica81@example.net
+7153,its,Women's Shoes,53.14,89,"Espinoza, Wells and Clark",hubbardwilliam@example.org
+9300,present,Women's Clothing,76.93,176,"Curry, Bates and Yates",gcooke@example.com
+7924,what,Women's Clothing,71.47,40,Roach-Smith,tstrickland@example.net
+1773,south,Women's Clothing,73.29,24,"Ashley, Taylor and Burton",johnsondavid@example.net
+5696,others,Men's Accessories,20.45,124,"Carlson, Caldwell and Austin",nortonkimberly@example.com
+7553,bag,Women's Accessories,98.12,170,Young-Burnett,tstrickland@example.net
+7416,increase,Men's Shoes,77.72,27,"Jackson, Herring and Gregory",joshuaromero@example.com
+9029,fast,Women's Shoes,27.69,162,Jones and Sons,baileyandrea@example.org
+3023,issue,Women's Shoes,37.56,24,"Rosales, Tanner and Ellis",epatrick@example.org
+2124,fill,Men's Clothing,97.84,21,Gardner-Yates,davisvictoria@example.com
+9018,heavy,Men's Accessories,46.53,22,Garcia-Moore,tonyjames@example.com
+6324,day,Women's Accessories,87.99,57,Marshall Ltd,qgomez@example.org
+2809,movement,Women's Clothing,42.65,55,Serrano-Bailey,joanne21@example.com
+3638,site,Men's Accessories,25.96,132,Gonzales LLC,jchung@example.com
+7477,address,Women's Shoes,68.41,66,Baker Ltd,donald85@example.com
+2575,money,Men's Accessories,82.48,188,Burns LLC,christine16@example.org
+5435,table,Men's Shoes,21.33,95,"Harding, Stewart and Johnson",adrian69@example.net
+5034,unit,Men's Shoes,91.64,199,White-Hill,williamsvanessa@example.org
+6052,opportunity,Women's Clothing,71.35,96,Yang and Sons,bellchristopher@example.net
+5672,sound,Women's Clothing,23.79,17,"Moore, Moore and Campos",williamsdesiree@example.net
+7007,only,Women's Shoes,82.36,20,Brady-Thompson,flewis@example.net
+2410,quickly,Women's Accessories,62.61,80,Wong-Todd,steve78@example.org
+4562,how,Men's Clothing,10.46,25,Bowen-Savage,ashleymartinez@example.com
+2589,foot,Women's Shoes,30.2,196,"Carroll, Cox and Johnson",ian96@example.org
+5949,others,Women's Accessories,71.84,164,Smith PLC,fyoder@example.com
+5972,fill,Men's Accessories,90.14,189,"Archer, Price and Johnson",hboyd@example.com
+9521,him,Men's Clothing,48.38,167,"Morgan, Cabrera and Stout",bthompson@example.net
+4542,growth,Men's Clothing,51.51,142,Mcpherson and Sons,noah82@example.net
+6155,lay,Men's Accessories,87.66,95,"Hunter, Landry and Carter",gabriel26@example.net
+7596,them,Men's Shoes,59.62,99,Smith-Allen,amymatthews@example.net
+4048,network,Men's Shoes,90.41,46,Wade LLC,robinsonjennifer@example.org
+9152,price,Women's Clothing,71.58,135,"Goodwin, White and Gardner",pglenn@example.com
+6376,unit,Men's Shoes,33.26,187,"Green, Mann and Horne",gilmoresarah@example.net
+9631,range,Men's Shoes,64.0,143,Holland-Hansen,steven16@example.net
+7923,they,Men's Accessories,94.47,183,Murray-Kennedy,wilsonjoshua@example.com
+9680,consumer,Women's Shoes,47.52,138,Griffin-Sharp,loriespinoza@example.org
+2811,major,Men's Clothing,65.67,78,Martin-Rodriguez,samuel89@example.org
+4760,form,Men's Shoes,64.78,52,Hahn-Pruitt,fbrady@example.org
+2240,hundred,Men's Accessories,27.87,119,"Stewart, Jenkins and Baker",alejandro00@example.org
+2505,some,Men's Shoes,99.36,18,Moore-Jones,orozcojennifer@example.net
+5398,kid,Women's Accessories,52.51,103,Peterson Inc,jmunoz@example.com
+7705,child,Men's Accessories,58.47,138,Stevenson and Sons,traci45@example.net
+6081,support,Women's Shoes,35.78,53,Ellis-Ruiz,geoffreymartinez@example.org
+5862,foot,Men's Accessories,63.58,147,"Johnson, Vargas and Clayton",houstoncurtis@example.org
+2378,these,Women's Shoes,27.96,128,Hernandez PLC,hcohen@example.org
+9104,then,Women's Clothing,15.1,63,Bradley-Scott,kristy39@example.com
+3810,true,Women's Shoes,58.42,141,"Krause, Gomez and Sanders",tonyblack@example.net
+5652,western,Men's Clothing,97.48,123,"Gross, Palmer and Rush",sherrydominguez@example.net
+3976,season,Men's Shoes,92.47,181,"Wilson, Johnson and Cole",kreed@example.com
+5133,make,Men's Accessories,57.81,14,Schultz Ltd,stephen64@example.org
+8453,choice,Men's Shoes,19.14,99,Santos-Bryan,kristiewarren@example.net
+4292,large,Men's Accessories,10.06,73,Johnson Inc,boltonmaria@example.com
+3741,south,Men's Shoes,83.59,44,Stewart-Allen,edward83@example.org
+2195,exist,Men's Shoes,77.8,92,"Sanford, Hubbard and White",jasonhayes@example.net
+7506,thousand,Women's Accessories,29.64,56,"Mills, Christian and Ortega",jacksoncraig@example.com
+4223,understand,Men's Clothing,81.94,124,Salazar-Brown,nealmelissa@example.org
+2996,many,Men's Accessories,13.88,95,"Thompson, Boone and Fernandez",jacob83@example.org
+9899,practice,Women's Shoes,68.77,130,Montoya Inc,zestrada@example.net
+3295,throughout,Men's Accessories,36.47,165,Brandt Ltd,edwardssarah@example.net
+8058,too,Men's Accessories,44.75,82,Mendoza Ltd,lindseyjohn@example.com
+3110,role,Women's Shoes,32.61,187,Lynch-Ortiz,nkelley@example.com
+9151,past,Men's Shoes,82.61,152,Mendez Inc,huertaheather@example.net
+1057,factor,Women's Shoes,50.28,20,Welch Group,jstout@example.net
+6739,third,Men's Clothing,84.58,174,Barr Inc,ebaker@example.org
+6284,despite,Women's Shoes,37.49,177,Davidson-Green,hessstacey@example.org
+5748,within,Men's Clothing,43.81,52,Allen PLC,johnfoster@example.net
+7649,history,Women's Accessories,26.1,121,Bass-Miller,mullinserica@example.net
+7051,organization,Men's Shoes,69.02,101,"Johnson, Rodriguez and Lee",denise03@example.com
+3334,almost,Women's Accessories,28.83,113,Moore and Sons,ndalton@example.net
+6071,anyone,Women's Clothing,72.15,98,"Clark, Brown and Moore",kimberlyjennings@example.net
+2842,next,Men's Accessories,16.27,178,"Chapman, Deleon and Martinez",caldwellmason@example.com
+7616,father,Men's Accessories,20.48,73,Murray and Sons,kyoder@example.org
+4190,yard,Women's Clothing,90.22,173,"Hopkins, Goodwin and Delgado",ttaylor@example.com
+6003,prove,Women's Shoes,38.31,18,Allen PLC,keithkerr@example.com
+3404,imagine,Women's Accessories,27.45,179,Long LLC,mary17@example.org
+9273,majority,Men's Accessories,87.86,182,Wu Group,davidrubio@example.org
+9820,career,Men's Accessories,93.62,121,"Williams, Mathews and Larson",sarah92@example.net
+9169,now,Men's Accessories,64.87,26,"Walters, Miller and Butler",kathrynmorrison@example.net
+3205,beat,Men's Shoes,90.94,48,Jackson Inc,danielhammond@example.com
+8939,available,Women's Shoes,89.26,47,"Schmitt, Lyons and Miller",meyersmelinda@example.net
+5461,hour,Women's Clothing,29.12,125,"Lam, Williams and Lewis",sharon68@example.com
+4846,begin,Women's Accessories,15.93,30,Hernandez-Becker,derek64@example.com
+9021,blue,Women's Accessories,83.32,156,"Watkins, Barnett and Walker",larsenlinda@example.net
+5267,east,Men's Accessories,74.54,153,Hudson-Mcdonald,ianderson@example.com
+3390,point,Women's Shoes,58.92,82,Potts-Smith,utaylor@example.net
+6997,leave,Women's Accessories,12.46,135,"French, Williams and Richards",christopher74@example.com
+5910,easy,Women's Accessories,22.53,167,"Duran, Reeves and Johnston",mary56@example.org
+1865,what,Women's Clothing,91.49,32,"Perry, Mason and Valentine",williamsadam@example.net
+1526,cell,Men's Shoes,62.11,29,Harrison-Jenkins,lynchkyle@example.com
+2562,lot,Men's Accessories,40.53,145,Williams Group,thomas22@example.net
+7666,compare,Women's Shoes,50.84,63,Moreno-Parker,nrush@example.com
+2424,class,Men's Shoes,68.58,177,"Frederick, Schwartz and Thomas",denise67@example.com
+4754,for,Men's Clothing,79.23,137,"Ingram, Warren and Shepherd",myerstyler@example.org
+8159,break,Men's Clothing,74.93,168,Gillespie-Lowery,erinmatthews@example.com
+9641,market,Women's Clothing,98.02,91,"Wise, Shah and Myers",james87@example.org
+3241,truth,Men's Clothing,33.09,18,Morton Ltd,douglasyates@example.net
+4667,education,Women's Clothing,51.43,118,"Ochoa, Gonzalez and Delgado",stephanie12@example.com
+8915,design,Men's Clothing,85.34,144,"Ramirez, Powell and Roberts",walkerryan@example.com
+7074,town,Men's Accessories,25.1,181,"Moore, Malone and Martinez",richardjones@example.net
+1151,word,Men's Accessories,36.71,57,Smith-Wilson,oliviabauer@example.org
+1690,out,Men's Accessories,12.71,52,Reed Ltd,steventorres@example.org
+9445,east,Men's Shoes,32.65,139,"Roth, Bailey and Bray",ronald05@example.net
+6084,thus,Men's Accessories,52.6,140,"Carroll, Green and Hall",curtisbrewer@example.org
+3973,eight,Women's Accessories,21.83,44,Malone and Sons,gmartin@example.org
+8926,never,Women's Accessories,50.42,51,Duncan-Alvarado,tstanley@example.net
+4097,money,Women's Accessories,73.07,23,Thompson LLC,kevinramirez@example.com
+6610,its,Men's Clothing,56.88,80,"Smith, Morse and Lopez",oduffy@example.com
+4126,site,Men's Shoes,15.38,36,"Reid, Ward and Moreno",wilsonvictoria@example.com
+1998,television,Men's Accessories,68.52,92,Leblanc LLC,danwallace@example.org
+2950,later,Women's Accessories,66.37,25,"Torres, Adams and King",tinarobinson@example.org
+4973,want,Men's Shoes,79.01,156,Smith and Sons,wilkinsmadison@example.net
+6874,will,Men's Accessories,57.06,117,"Cook, Simpson and Rose",patricia24@example.net
+6980,most,Men's Shoes,65.03,151,Williams Group,hernandezdanielle@example.org
+8455,quite,Men's Shoes,84.21,99,Martinez-Sanders,jwhite@example.org
+4511,maybe,Men's Accessories,47.76,184,Martin-Hall,nicholasjohnston@example.net
+7476,seat,Men's Accessories,36.95,183,Medina and Sons,jonathan51@example.com
+3069,open,Men's Shoes,31.34,154,"Hahn, Herrera and Scott",john11@example.com
+3821,imagine,Men's Clothing,82.43,191,"Yoder, Sosa and Castro",mary90@example.com
+9127,sense,Men's Shoes,73.27,28,Nielsen-Snow,ncarr@example.com
+9069,might,Women's Clothing,70.5,150,"Flowers, Roth and Aguilar",edward38@example.net
+2886,former,Women's Accessories,36.79,64,Stewart-Nolan,shahjennifer@example.net
+8749,then,Women's Shoes,31.41,163,Torres-Long,thompsonrobert@example.com
+4696,difference,Women's Accessories,27.53,177,"Haley, Sanders and Reid",rebeccarichardson@example.com
+6752,accept,Women's Shoes,59.9,52,"Stevenson, Gutierrez and Terry",john31@example.org
+2019,four,Men's Clothing,55.08,40,Taylor PLC,christian80@example.org
+1294,blue,Women's Accessories,95.96,174,Cole-Noble,gleon@example.com
+5315,development,Women's Clothing,91.58,111,"Harris, Miranda and Miles",juanwest@example.com
+2044,program,Women's Accessories,84.94,15,Barnett-Santos,laura41@example.org
+5125,ball,Women's Shoes,47.14,30,House-Maynard,alvarezrachel@example.org
+5654,live,Men's Shoes,88.09,135,Moon-Morton,josephcoleman@example.net
+5626,all,Women's Accessories,94.82,116,Young LLC,lmadden@example.net
+5804,lose,Women's Accessories,66.28,48,Sanders-Wang,ndavies@example.com
+5543,wind,Men's Shoes,83.6,86,"Cox, Moore and Thomas",christopher12@example.com
+7209,thing,Men's Shoes,27.53,55,"Davis, Gallegos and Hatfield",bmendoza@example.net
+9350,rich,Men's Clothing,43.87,165,Burton-Brock,patrickbrown@example.org
+2429,piece,Men's Accessories,48.18,168,"Gray, Paul and Myers",williamsellen@example.org
+9136,effect,Women's Accessories,90.06,187,Mcknight Inc,freemanveronica@example.net
+5088,prove,Women's Clothing,65.33,68,Faulkner Inc,jonescourtney@example.com
+4312,street,Women's Accessories,37.33,26,Brown-Sutton,princepamela@example.org
+5243,but,Women's Shoes,34.35,125,Romero Inc,nguyencharles@example.org
+8197,personal,Men's Shoes,84.73,180,Shelton-Garcia,williamshaley@example.net
+6188,instead,Men's Accessories,96.79,152,Paul Group,holdenjill@example.org
+8235,total,Women's Shoes,73.19,33,Wilson-Chaney,hhamilton@example.com
+7841,article,Women's Accessories,33.91,109,"Nelson, Jensen and Wilson",rhodescynthia@example.org
+8253,image,Men's Clothing,95.74,137,"Summers, English and Williams",halljohn@example.net
+3918,little,Women's Shoes,31.13,58,Bishop-Jones,natalie05@example.net
+1341,technology,Women's Shoes,39.36,175,"Stewart, Villarreal and Smith",gary02@example.com
+4224,total,Men's Shoes,62.09,83,"Williams, Callahan and Mcdaniel",joshuamiddleton@example.com
+3537,quality,Men's Shoes,12.58,153,Wilson-Hunt,timothy89@example.net
+7677,board,Women's Accessories,67.19,34,Walter Group,mark22@example.org
+2572,imagine,Women's Accessories,36.01,108,Parsons LLC,glittle@example.com
+6909,effort,Women's Shoes,40.26,55,Duke Group,nwilliams@example.com
+8149,station,Women's Shoes,76.29,30,Anderson Inc,jessicawilliams@example.net
+3438,federal,Men's Clothing,18.92,50,"Villa, Weaver and Guzman",katherinescott@example.org
+9361,music,Men's Accessories,73.45,151,Williams-Burgess,thomas56@example.net
+4387,should,Women's Accessories,37.68,153,Marks-Ward,hilljoseph@example.org
+6473,end,Women's Accessories,91.71,196,"Willis, Olson and Ruiz",johnsonamanda@example.net
+6802,yard,Men's Accessories,46.7,182,Thomas and Sons,renee79@example.org
+7898,while,Men's Accessories,10.04,170,Watson-Dean,harrisonjennifer@example.net
+9092,live,Women's Clothing,27.23,134,"Craig, Lane and Snow",ljones@example.net
+5209,necessary,Women's Accessories,70.81,118,Butler-Ayers,agriffin@example.com
+9638,health,Women's Shoes,67.63,146,"Lozano, Mcdonald and Nelson",zferguson@example.net
+2232,help,Women's Shoes,57.16,179,Molina-Mcdaniel,reynoldsmaurice@example.com
+1900,upon,Men's Accessories,62.57,26,Johnson-Daniels,debra52@example.com
+3343,movement,Men's Shoes,93.88,64,"Rodriguez, Ruiz and Jefferson",arobertson@example.org
+9179,voice,Men's Clothing,87.61,32,Rollins Ltd,cortezcarlos@example.org
+9910,TV,Men's Accessories,52.6,103,"Armstrong, Brown and Carlson",vaustin@example.com
+6013,figure,Women's Accessories,30.26,56,Craig LLC,kbrown@example.net
+6750,police,Men's Accessories,10.11,35,"Gilbert, Stone and Walters",hamiltonrenee@example.org
+9861,yourself,Women's Accessories,93.52,97,"Hayden, Pittman and Reynolds",xmiller@example.org
+6856,candidate,Men's Clothing,88.39,104,Ortiz-Mckinney,davisjohn@example.net
+5466,high,Women's Clothing,73.49,121,Franklin-King,andrea44@example.org
+2090,individual,Women's Clothing,98.4,111,Walker-Clements,huntertimothy@example.org
+6332,important,Men's Clothing,88.05,73,Garrett-Jones,mhansen@example.net
+5619,size,Men's Accessories,41.38,108,"Sloan, Harris and Hernandez",michaeljacobson@example.com
+7307,result,Women's Clothing,52.04,173,Grant-Medina,kimberlylewis@example.net
+9748,adult,Men's Accessories,72.25,111,Aguilar Ltd,jennifergonzalez@example.net
+1157,act,Women's Shoes,50.28,141,Cooper PLC,bakerchristy@example.net
+3237,owner,Women's Accessories,84.42,82,"Hoover, Mccarty and Davis",kyle64@example.net
+2295,act,Men's Clothing,97.72,131,Mccarthy-Baker,sdavis@example.com
+4273,way,Women's Shoes,54.75,186,Benjamin Ltd,michael80@example.net
+4096,truth,Men's Clothing,36.06,111,Dunlap-Wells,nguyentimothy@example.org
+7840,image,Women's Accessories,98.6,117,Miller Inc,carpenterjames@example.com
+7926,large,Men's Clothing,21.36,150,Anderson-Villanueva,cynthia61@example.com
+7532,simply,Men's Clothing,61.85,60,Wall-Ross,jenny62@example.net
+3465,college,Women's Clothing,42.11,143,Beck Inc,christopher07@example.org
+1343,so,Women's Shoes,35.18,28,Hernandez-Wilson,adam50@example.com
+8130,civil,Women's Accessories,98.63,100,Park PLC,kylemoran@example.com
+7390,reach,Men's Accessories,10.14,63,Ochoa-Tucker,ahill@example.com
+2413,back,Women's Clothing,73.1,61,Conrad Group,amy63@example.com
+4001,return,Men's Shoes,40.37,196,"Montgomery, Bailey and Benson",nicole89@example.com
+7164,fire,Women's Accessories,60.27,181,Patterson-Allen,bshah@example.net
+2143,idea,Men's Clothing,11.36,39,"White, Hendrix and Robertson",kimberly01@example.net
+2740,traditional,Women's Clothing,86.3,115,"Edwards, Goodwin and Hoffman",eturner@example.net
+4595,themselves,Women's Shoes,96.29,42,"Smith, Brown and Smith",qmcclain@example.com
+6595,member,Men's Clothing,10.97,183,Brown Ltd,brownmarvin@example.org
+9021,radio,Women's Shoes,33.32,37,Aguilar-Larson,alexisharrison@example.com
+5371,issue,Men's Accessories,38.39,113,"Benton, Miranda and Smith",christopher66@example.org
+2419,attack,Women's Shoes,42.01,64,"Combs, Morris and Richards",tricia28@example.com
+5604,watch,Men's Clothing,61.27,159,"Valencia, Wolf and Hunt",leecurtis@example.org
+6835,music,Men's Shoes,68.85,142,Richards-Reed,marylin@example.com
+8599,trouble,Men's Clothing,50.72,164,Kelly PLC,yorkblake@example.net
+3827,interest,Women's Accessories,10.01,106,Burch-Bush,dmartin@example.com
+3530,at,Women's Accessories,56.96,31,"Escobar, Byrd and Warner",wellsdaniel@example.net
+5268,produce,Women's Shoes,55.97,17,Hess-Harris,allison21@example.net
+5072,thought,Men's Shoes,72.46,50,"Sutton, Williams and Arnold",johnsonangela@example.net
+7219,career,Men's Accessories,82.98,199,"Gonzales, Parker and Martinez",fjackson@example.org
+1416,whatever,Men's Shoes,36.61,107,Bowman Inc,hcunningham@example.com
+2479,response,Men's Accessories,78.91,115,Hunt LLC,kruegerjacob@example.com
+4002,let,Women's Shoes,71.21,135,"Austin, Shields and Castro",wriddle@example.org
+3401,home,Men's Clothing,24.34,14,Silva LLC,caleb86@example.org
+7353,leader,Men's Accessories,57.99,156,Huffman PLC,fieldsdiane@example.org
+7676,remember,Men's Clothing,37.19,90,Miller LLC,josephmayer@example.com
+1942,type,Men's Clothing,94.72,27,"Miller, Baker and Rogers",aarnold@example.org
+7381,us,Men's Accessories,47.32,93,"Williamson, Pratt and Davis",lmcguire@example.org
+4859,professional,Women's Shoes,53.19,174,Gonzalez-King,lcampbell@example.org
+6305,tree,Women's Clothing,70.52,157,Cooper Ltd,friley@example.org
+1948,who,Women's Accessories,97.46,11,Deleon PLC,coxscott@example.org
+8625,whole,Men's Shoes,68.76,63,Escobar-Brown,taylormichael@example.net
+4365,serve,Men's Accessories,46.29,92,Beasley-Taylor,edward29@example.com
+1657,fine,Men's Shoes,13.16,76,"Stevens, Sutton and Alvarez",tpowell@example.org
+7479,listen,Men's Clothing,30.63,75,Dunn Inc,emma05@example.com
+1596,system,Men's Shoes,66.58,85,Parsons-Johnson,michaelcamacho@example.net
+4758,enjoy,Women's Accessories,66.38,147,Dixon Ltd,egates@example.org
+3224,peace,Women's Clothing,37.31,106,"Carroll, Patterson and Bryant",longlisa@example.net
+6470,somebody,Men's Shoes,73.42,180,Johnston Ltd,gdennis@example.org
+8080,owner,Men's Clothing,25.2,172,Walker-Andrews,forderic@example.org
+8711,entire,Men's Clothing,15.22,192,Ford PLC,joshua71@example.net
+8909,list,Men's Clothing,23.12,74,Kelly-Kim,jonathanshields@example.com
+5751,and,Women's Shoes,91.17,127,"Coleman, Barrera and Martin",bradley77@example.net
+5008,game,Women's Accessories,58.6,82,"Alvarez, Foster and Price",mgray@example.org
+3017,girl,Women's Clothing,68.93,165,"Jones, Smith and Garcia",smithamanda@example.com
+6676,magazine,Men's Shoes,83.81,146,Hunt Inc,michelle78@example.com
+1113,country,Women's Clothing,19.54,27,Bean Inc,amanda63@example.com
+7924,lose,Men's Accessories,67.23,137,"Love, Mcfarland and Kim",chelsey77@example.net
+3037,car,Women's Accessories,49.95,136,"Gordon, Johnson and Hunt",desireeortiz@example.net
+2756,listen,Men's Shoes,67.15,137,"Williams, Walls and Proctor",tmurphy@example.com
+1592,nor,Men's Shoes,72.34,43,"Evans, Garcia and Curtis",timothywagner@example.org
+3620,along,Men's Clothing,95.76,88,"Pearson, Reynolds and Garcia",parkerlinda@example.org
+2329,themselves,Men's Accessories,91.1,145,Hicks PLC,john85@example.net
+1511,heavy,Men's Shoes,37.6,24,Frost-Nguyen,nealrandy@example.org
+4740,cultural,Men's Accessories,83.56,111,Hill Inc,bjohns@example.com
+9583,PM,Women's Clothing,24.42,66,"Walker, Marsh and Rodriguez",mitchellvillarreal@example.com
+9259,sister,Men's Accessories,18.11,197,Pierce and Sons,rosekevin@example.com
+5013,financial,Women's Shoes,79.58,178,"Castro, Smith and Foster",amanda82@example.org
+3319,already,Women's Clothing,12.23,22,"Rios, Nichols and Wilson",brookebecker@example.org
+6274,tonight,Women's Clothing,51.1,135,Thompson Inc,cbond@example.com
+4131,rate,Men's Shoes,92.68,114,Gilbert-Walker,nlee@example.org
+3164,rule,Men's Accessories,26.7,13,"Stevens, Clark and Hooper",andersonmelinda@example.com
+6668,do,Men's Clothing,65.15,86,"Williams, Ross and Harris",philipphillips@example.net
+6424,end,Women's Shoes,27.61,30,Singh-Nelson,robert31@example.com
+7287,answer,Women's Accessories,18.53,67,Green-Garza,annemiller@example.net
+7676,several,Women's Shoes,64.1,151,"Perez, Huff and Bolton",oflores@example.net
+2368,actually,Women's Accessories,70.58,106,Franklin Inc,maria45@example.com
+9836,hot,Men's Clothing,92.77,146,Moran-Gallegos,bowmandevon@example.com
+2157,cover,Men's Accessories,31.12,77,Maxwell-Anderson,jonathanaustin@example.org
+8136,color,Women's Clothing,19.1,98,Ortiz-Flores,nancy88@example.net
+3454,news,Men's Clothing,40.11,160,Gonzalez PLC,carrierandolph@example.org
+7160,unit,Men's Shoes,21.96,99,Joseph-Ballard,joshua90@example.org
+3640,several,Men's Shoes,59.43,155,Pruitt Ltd,christy07@example.net
+5722,maintain,Men's Clothing,74.91,143,Wilson-Hoover,mward@example.org
+9679,stay,Women's Shoes,25.73,126,Alvarado-Sullivan,lnelson@example.com
+5133,large,Women's Accessories,55.42,20,"Combs, Jackson and Fisher",willistroy@example.net
+6748,believe,Men's Shoes,66.88,100,"Cummings, Allen and Griffith",smithkimberly@example.net
+2525,too,Men's Clothing,10.88,192,Allen PLC,plong@example.org
+9164,situation,Women's Shoes,31.6,200,"Huang, Acosta and Larson",smaxwell@example.com
+3930,central,Men's Shoes,63.8,44,May LLC,qhall@example.net
+9227,over,Women's Clothing,10.78,77,"Shah, Roberts and Wise",keith69@example.net
+8235,woman,Women's Shoes,33.31,105,Shepherd-Simpson,tgonzalez@example.net
+7923,medical,Men's Clothing,91.55,123,Lang-Hernandez,stephen33@example.com
+5817,too,Women's Clothing,76.99,126,"Sanders, Johnson and Nelson",taylorneal@example.org
+9368,wear,Men's Clothing,15.42,140,Hale-Walker,hmartin@example.com
+7512,that,Men's Accessories,54.32,161,Dickerson-Weaver,ashleyleon@example.net
+5244,computer,Women's Clothing,60.9,16,"Hodges, Green and Ray",johnjacobs@example.org
+8002,economy,Men's Accessories,19.78,189,Ryan-Mills,oprice@example.com
+9895,then,Women's Accessories,92.78,141,Bush LLC,lisa24@example.com
+1539,current,Men's Shoes,65.51,128,Lawson LLC,leamanda@example.org
+6644,government,Women's Accessories,85.23,35,"Rowland, Clements and Schwartz",davidclark@example.org
+4233,name,Women's Accessories,96.15,166,Wilson-Daugherty,alan71@example.com
+9476,series,Women's Accessories,89.18,127,Murphy-Gomez,william96@example.com
+9483,offer,Women's Shoes,40.17,74,Sullivan-Esparza,garciamary@example.com
+1330,once,Men's Shoes,59.94,139,"Cox, Young and Harvey",douglas76@example.net
+2248,material,Women's Accessories,43.99,172,Johnson Ltd,lhaney@example.net
+3714,this,Men's Clothing,74.54,55,"Dixon, Petersen and Wang",cmclaughlin@example.org
+3528,personal,Men's Shoes,91.75,174,Thomas-Rich,ustone@example.org
+1879,decide,Men's Clothing,66.26,83,Clay-Dyer,schwartzmichael@example.org
+2256,amount,Women's Shoes,19.4,181,Thomas-Hill,alexander87@example.org
+2661,available,Women's Accessories,68.9,138,"Cervantes, Marquez and Martinez",vramsey@example.org
+7677,bed,Men's Shoes,96.09,58,Brown-Williams,davisemily@example.com
+9122,collection,Women's Accessories,10.47,146,Griffin-Lucas,kmiller@example.org
+1172,likely,Women's Accessories,93.59,73,"Thomas, Barrett and Brown",amandaperez@example.org
+8262,take,Women's Shoes,70.98,199,"Simpson, Lewis and Brooks",robinsonelizabeth@example.org
+4360,view,Women's Clothing,51.94,117,"Jenkins, James and Robinson",dylan84@example.net
+7127,rise,Men's Clothing,94.07,41,Hill-Reynolds,myoung@example.org
+5906,pick,Women's Shoes,36.15,153,Moore-Peterson,courtney23@example.net
+5781,hair,Women's Clothing,36.93,122,Peterson LLC,xparks@example.com
+3704,child,Women's Clothing,90.78,107,Rowe-Hayes,zhill@example.com
+1638,produce,Men's Clothing,51.58,174,"Rowe, Price and Black",montgomeryomar@example.com
+9327,similar,Men's Clothing,71.49,177,Brooks LLC,johnsonvincent@example.com
+5253,former,Men's Accessories,93.7,42,"Hall, Gilmore and Hood",nancy98@example.net
+4705,bad,Men's Accessories,13.31,169,Wilson PLC,millertara@example.com
+5227,newspaper,Women's Shoes,80.78,184,Gould Inc,knoxjohnny@example.org
+1982,grow,Women's Clothing,13.48,192,King Inc,karina73@example.org
+3162,something,Men's Shoes,98.18,114,Brown Ltd,chelsearobinson@example.org
+4927,dark,Men's Accessories,99.0,81,Johnson-George,foxkenneth@example.org
+9374,bill,Men's Shoes,27.47,190,White-Kirk,jonesheather@example.com
+1433,each,Men's Clothing,30.86,167,Conley Group,barry87@example.net
+1159,pull,Women's Clothing,93.05,54,Bell-Boone,hillphillip@example.org
+4871,answer,Women's Clothing,53.79,108,Tucker-Oliver,nortonnathan@example.com
+6318,scene,Women's Shoes,34.64,100,Edwards-Ross,rachaelbates@example.net
+6710,green,Men's Accessories,71.6,193,Mitchell-Wolf,courtney48@example.com
+9321,fine,Women's Shoes,64.57,170,Graham-Salazar,williamsdeborah@example.org
+9323,stay,Women's Shoes,63.47,189,Rose Inc,dlopez@example.org
+3345,director,Women's Shoes,46.64,60,Gallagher-Simmons,molly55@example.net
+9799,bank,Women's Shoes,94.0,132,"Matthews, Gutierrez and Thomas",annerogers@example.com
+7765,value,Men's Accessories,73.41,14,Berg-Graves,josephsmith@example.net
+7225,my,Women's Accessories,24.32,142,"Harris, Wilson and Howell",mary42@example.com
+1228,central,Men's Shoes,16.92,72,Crawford-Hayden,sandovaljaime@example.com
+1081,short,Men's Shoes,59.41,104,"Hardin, Young and Baker",roy60@example.org
+9025,catch,Women's Accessories,80.11,61,Wright-Strong,traci24@example.org
+1905,south,Women's Clothing,47.25,44,Avery-Bishop,johnsontonya@example.net
+9842,pass,Men's Shoes,75.77,160,Brooks-Mcgee,mramirez@example.net
+8369,voice,Women's Shoes,92.78,55,Blair and Sons,matthew11@example.net
+9433,role,Women's Shoes,69.83,129,Wong-Allen,leeshannon@example.net
+6977,figure,Men's Clothing,57.72,14,Davis-Miles,andrewsrichard@example.net
+5021,place,Women's Accessories,88.33,166,Fuller-Campbell,tbryant@example.net
+5890,state,Women's Clothing,40.46,127,Patel Ltd,whitejoseph@example.net
+8057,go,Men's Clothing,88.68,168,Fleming-Anderson,cschmitt@example.org
+7999,value,Women's Accessories,70.62,180,Ayers-Williams,reyeswilliam@example.org
+8758,card,Women's Accessories,29.23,24,"Cameron, Marshall and Chandler",zgonzalez@example.net
+9900,include,Women's Clothing,61.28,59,Hanson PLC,victoriavasquez@example.net
+3032,foreign,Women's Accessories,29.87,159,Sexton Inc,raycarter@example.com
+2678,own,Men's Accessories,91.56,167,Jackson PLC,emma50@example.org
+2917,everything,Men's Shoes,72.41,176,Jarvis LLC,yberger@example.org
+5368,case,Men's Clothing,67.09,119,Mcclain-Parker,david76@example.com
+6201,detail,Women's Clothing,89.8,74,Williams Inc,katiemitchell@example.com
+1319,marriage,Women's Clothing,91.64,185,Hoover-Hawkins,christinalee@example.net
+3446,card,Men's Clothing,17.96,116,Gardner Group,jacqueline37@example.net
+7453,cost,Men's Shoes,79.22,188,"Bryant, Burke and Parker",lauranorton@example.net
+1662,as,Women's Clothing,39.84,175,Torres Ltd,smithsusan@example.com
+6401,from,Women's Shoes,96.48,100,"Terrell, Reed and James",vwilliamson@example.org
+6957,rather,Women's Shoes,74.22,70,"Savage, Jimenez and Williams",seanabbott@example.net
+3509,technology,Men's Accessories,97.82,20,Hickman-Baker,colleencalhoun@example.com
+6567,change,Women's Clothing,88.97,185,"Pruitt, Schroeder and Lynch",rachael57@example.net
+2915,away,Women's Clothing,75.92,68,Terrell-Hudson,colekimberly@example.com
+3888,form,Women's Shoes,95.87,26,"Elliott, Villarreal and Thompson",ryan90@example.org
+8003,around,Men's Clothing,39.6,41,Aguilar-Acosta,perryphilip@example.com
+5694,foreign,Men's Shoes,85.89,110,"Mann, Ruiz and Nicholson",lisadavis@example.com
+5537,with,Men's Accessories,93.74,80,"Taylor, Frederick and Howard",jamesflores@example.org
+8072,whom,Women's Clothing,95.33,124,"Boyd, Jackson and Silva",fryesteven@example.com
+7898,stop,Men's Clothing,68.17,105,"Pineda, Smith and Daniels",hollandalan@example.net
+2110,too,Men's Shoes,46.8,47,Ashley Group,jesse49@example.net
+3592,thing,Men's Shoes,12.12,170,Patterson-Price,jluna@example.com
+7202,whose,Men's Accessories,53.75,42,Johnson PLC,richardsabigail@example.org
+9682,mother,Men's Shoes,15.33,144,Wilson-Perry,kevinfisher@example.net
+5636,action,Women's Clothing,33.88,91,"Williams, Williams and James",ypayne@example.com
+2406,class,Women's Accessories,65.81,173,Reyes PLC,byrdjames@example.com
+4671,side,Men's Accessories,23.08,40,"Lopez, Morgan and Cohen",kmeyer@example.net
+9734,pull,Women's Accessories,29.51,196,Wright-Willis,jamesjames@example.org
+9804,issue,Men's Shoes,47.72,78,Castillo-Rodriguez,brittany05@example.net
+7431,first,Women's Accessories,33.11,164,Martin-Gould,zmoreno@example.net
+3524,teacher,Women's Accessories,73.31,42,"Jackson, Bates and Woods",iandrews@example.com
+9983,public,Women's Clothing,45.4,96,Martinez-Harris,phillipsnichole@example.net
+8298,our,Women's Clothing,75.65,188,"Hood, Nichols and Kline",lisa00@example.org
+8583,book,Men's Clothing,20.17,136,"Long, Matthews and Williams",simmonskelsey@example.net
+2455,stock,Men's Shoes,12.67,109,Davis Inc,allenmichelle@example.net
+1512,then,Women's Accessories,11.42,109,Smith and Sons,carterbrian@example.net
+2185,manager,Men's Shoes,63.8,179,Meyers LLC,kpetersen@example.org
+5229,own,Men's Clothing,55.73,129,"Dodson, Smith and Campbell",kentaaron@example.net
+9924,past,Women's Accessories,56.28,122,Velasquez-Mclaughlin,michaelbarrera@example.net
+2875,build,Women's Shoes,90.87,195,Anderson-Sanders,lori58@example.net
+8662,tax,Men's Shoes,72.49,155,Stuart PLC,bentoncory@example.com
+5263,main,Men's Shoes,24.03,96,"Powell, Walsh and Turner",amber74@example.org
+5246,task,Men's Accessories,82.64,130,"Stephenson, Juarez and Page",cainphillip@example.com
+2990,series,Women's Shoes,70.27,105,"Green, Meza and Li",holly40@example.org
+2361,make,Men's Accessories,83.25,44,Thompson and Sons,olsenjeffrey@example.org
+9771,put,Women's Accessories,88.11,168,Johnson PLC,stephen64@example.com
+9549,open,Men's Accessories,47.86,90,Bush-Gonzalez,thomasward@example.net
+9193,season,Men's Shoes,15.6,149,Meadows PLC,james21@example.org
+3849,security,Men's Clothing,36.66,134,"Smith, Estrada and Prince",ryan02@example.net
+3248,nor,Men's Shoes,59.39,157,Lee-Sherman,ilevy@example.net
+6500,better,Women's Clothing,25.29,17,Huerta Group,daniel88@example.net
+2268,culture,Women's Clothing,52.55,101,Zimmerman-Foster,amanda53@example.net
+8625,perform,Men's Clothing,23.32,170,"Butler, Beck and Cox",qchristian@example.org
+4602,whose,Women's Clothing,29.5,184,Patterson and Sons,amyers@example.net
+8752,ground,Men's Shoes,87.15,46,Decker and Sons,michael48@example.com
+3078,plan,Men's Shoes,85.89,135,Mills Inc,erinrodriguez@example.net
+4924,road,Women's Shoes,47.82,194,"Singleton, Russell and Perkins",walkermichael@example.org
+3532,analysis,Women's Clothing,89.45,101,Cruz-Morales,mbrown@example.org
+5108,together,Men's Clothing,23.07,69,Faulkner-Monroe,jonathan38@example.org
+8040,seven,Men's Shoes,19.22,79,Moreno PLC,ugarrett@example.org
+8408,process,Men's Clothing,68.6,49,Washington-Nelson,juliemathis@example.org
+9950,drop,Women's Accessories,53.45,157,Flores-Campbell,jonesjamie@example.com
+2293,though,Women's Accessories,81.42,46,Williams LLC,brian01@example.com
+5943,ahead,Men's Accessories,96.51,15,Carter Group,mallen@example.net
+7507,manage,Women's Clothing,60.89,126,"Craig, Shepherd and Henderson",kimberly14@example.org
+4765,safe,Women's Clothing,79.69,68,Anderson and Sons,douglaspatterson@example.net
+5689,music,Women's Clothing,83.81,84,Cameron Ltd,jennifer58@example.com
+8933,difference,Women's Shoes,85.93,64,Lewis-Brown,ryan53@example.net
+1449,health,Men's Shoes,38.55,140,"Martin, Cruz and Lane",justin66@example.com
+6461,measure,Women's Shoes,14.76,82,Wolf LLC,rwoods@example.org
+2627,century,Men's Shoes,62.7,183,Caldwell-Fisher,echaney@example.com
+9211,service,Men's Accessories,78.84,44,"Guerrero, Andrews and Cross",wattssamantha@example.com
+4987,always,Women's Accessories,75.82,24,Vazquez-Thomas,danieldouglas@example.org
+3755,say,Women's Clothing,43.76,63,"Smith, Howell and Ellis",rossmartin@example.com
+2201,law,Men's Clothing,20.61,174,"Murphy, Cabrera and Cain",lguerrero@example.com
+6629,help,Women's Clothing,59.11,93,Robinson-Aguilar,melissa65@example.net
+3913,nature,Women's Shoes,66.29,161,"Henderson, Smith and Richards",osbornedaniel@example.com
+8992,hair,Women's Accessories,37.34,96,"Dyer, Rogers and Hamilton",mwilliams@example.com
+1728,third,Men's Clothing,93.29,176,Miller LLC,johnstonsteven@example.net
+5522,some,Men's Clothing,12.74,43,Miller-Wright,catkins@example.com
+5442,trouble,Women's Clothing,29.54,67,Graham-Rice,thomas93@example.net
+8977,various,Women's Shoes,80.98,200,"Allison, Arnold and Hoffman",ericasherman@example.net
+9031,speak,Men's Clothing,40.48,62,Dawson LLC,gardnerstephen@example.com
+3184,window,Women's Clothing,68.57,54,"Wade, Ross and Singleton",donaldford@example.net
+2512,collection,Men's Shoes,73.29,43,Thompson LLC,barbara88@example.com
+6233,pay,Women's Accessories,16.78,192,"George, Johnson and Elliott",mollyporter@example.com
+9394,kind,Women's Clothing,91.46,96,Wright and Sons,sgraham@example.net
+2775,wrong,Women's Clothing,17.77,94,Briggs PLC,garciateresa@example.com
+1921,firm,Women's Shoes,69.11,180,"Contreras, Boyer and Anderson",lopezmatthew@example.org
+9166,send,Men's Clothing,24.9,48,"Wade, Blackwell and Wells",bryankevin@example.org
+2023,find,Men's Accessories,86.77,150,"Contreras, Davis and Fletcher",aliciawebb@example.net
+2218,film,Men's Shoes,42.84,120,Long and Sons,williamswilliam@example.com
+7261,him,Men's Shoes,24.72,155,Ross PLC,emclaughlin@example.com
+7583,somebody,Men's Accessories,96.15,169,"Santos, Jimenez and Swanson",collinspaul@example.org
+4069,model,Men's Clothing,10.95,21,"Mccall, Brown and Cameron",sototroy@example.com
+2692,themselves,Men's Shoes,18.53,173,Smith LLC,ibryant@example.com
+8733,scientist,Women's Accessories,72.66,133,Cooper Group,nbell@example.org
+4347,especially,Women's Clothing,63.3,106,"Jenkins, Fowler and Huffman",elizabeth80@example.net
+7932,recent,Men's Accessories,48.72,100,White PLC,melissa40@example.net
+3906,single,Women's Clothing,17.29,160,Pace LLC,matthewpatterson@example.com
+7660,commercial,Women's Accessories,32.24,97,Hernandez-Holmes,belljessica@example.net
+1581,southern,Women's Accessories,47.51,161,Gregory Inc,jessica73@example.net
+3695,quality,Women's Accessories,48.96,165,"Glass, Jones and Fowler",william95@example.org
+2832,money,Women's Clothing,55.24,85,Wells-Harris,rodgerskimberly@example.net
+6408,health,Men's Shoes,60.44,152,Jones-Hubbard,millerjoseph@example.org
+2581,though,Women's Clothing,99.82,120,Miller Inc,maddoxbrittany@example.com
+8700,science,Men's Shoes,87.83,94,Daniel-Dennis,jennifer56@example.net
+1113,decide,Men's Accessories,16.28,177,Martinez-Collins,balexander@example.org
+2997,myself,Women's Clothing,12.35,11,"Rivera, Wong and Moore",bobby03@example.net
+5988,beat,Women's Shoes,95.95,66,Robinson-Huynh,jacksonangela@example.com
+7642,second,Women's Shoes,73.54,139,Cook-Estrada,nicole97@example.com
+1800,speak,Men's Shoes,81.7,136,Thompson-Rivera,ashleylopez@example.org
+1808,community,Women's Accessories,58.0,22,Thomas-Owens,sonya38@example.net
+3307,population,Men's Accessories,74.43,27,Henderson-Collins,matthewlowe@example.net
+8327,girl,Men's Clothing,21.43,17,"Estrada, Johnson and Thomas",kperez@example.org
+6997,painting,Women's Accessories,96.06,94,Gray Group,fordheather@example.org
+9001,audience,Women's Shoes,42.94,165,Byrd Group,andrea65@example.net
+9326,land,Women's Shoes,37.67,59,Myers Inc,hollandbrittany@example.com
+1861,easy,Women's Shoes,75.9,71,Johnson-Hampton,jeffrey10@example.org
+1112,field,Men's Accessories,89.68,82,Roberts and Sons,jose14@example.net
+7813,opportunity,Women's Shoes,36.91,71,Holder and Sons,kevinsmith@example.net
+8801,game,Women's Accessories,90.29,174,Rose PLC,qturner@example.net
+9319,vote,Women's Clothing,40.11,141,"Rogers, Wilson and Day",salinasshannon@example.org
+4448,blood,Men's Clothing,78.45,71,Reid Inc,ggutierrez@example.com
+8043,throw,Women's Accessories,87.41,127,Black-Drake,howardjudy@example.net
+9833,red,Women's Clothing,38.66,180,Christensen-Ruiz,joneslisa@example.com
+4932,sell,Men's Clothing,84.19,104,"Summers, Fischer and Mathews",kristagarcia@example.org
+5627,chance,Men's Shoes,95.23,60,"Mullins, Hall and Stewart",jonathan63@example.net
+7824,people,Women's Accessories,55.23,176,Chapman-Mcconnell,rwalsh@example.org
+6087,writer,Women's Clothing,25.67,103,"Garcia, Lopez and Navarro",troyjenkins@example.net
+4052,him,Women's Clothing,79.68,15,"Smith, Valenzuela and Byrd",wesley36@example.net
+9567,interview,Men's Clothing,49.59,154,"Savage, Smith and Moody",susancarrillo@example.com
+4967,skin,Women's Shoes,29.04,67,Rodriguez and Sons,campbellmarie@example.com
+4479,food,Women's Shoes,95.96,144,"Martin, Knapp and Cochran",moodycheryl@example.net
+3072,force,Men's Shoes,96.19,69,"Campbell, Rodriguez and Leon",brownashley@example.net
+7384,respond,Women's Clothing,30.86,137,"Leach, Douglas and Smith",tamarajefferson@example.org
+2941,away,Men's Clothing,12.15,119,Burns-Griffin,george24@example.org
+2011,human,Women's Shoes,48.74,101,Washington-Pearson,christopher71@example.org
+1665,miss,Men's Shoes,71.31,29,Robinson Ltd,baileyjose@example.org
+7231,us,Women's Shoes,87.38,113,Greer Ltd,gchandler@example.net
+6065,miss,Women's Accessories,20.73,19,"Watson, King and Pratt",yjacobs@example.com
+9283,stuff,Men's Shoes,51.1,46,"Walker, Duncan and Cochran",denisetaylor@example.org
+5331,kind,Men's Accessories,50.61,179,"Kramer, Morales and Anderson",anthony84@example.com
+4840,foot,Men's Accessories,90.91,128,Beck and Sons,qbrown@example.net
+2571,though,Women's Clothing,60.89,36,"Silva, Sexton and Johnson",carla94@example.com
+1008,new,Men's Accessories,97.44,76,Hunt and Sons,carolparker@example.org
+6638,world,Men's Accessories,96.3,108,Small-Miller,kimberly57@example.org
+4089,team,Men's Clothing,95.45,125,Knight-Arnold,philiplewis@example.net
+3815,power,Women's Shoes,13.2,102,Simpson and Sons,alexandermiller@example.net
+7155,consider,Women's Clothing,87.04,85,Burns-Garcia,randy79@example.com
+6610,usually,Men's Accessories,83.15,60,Hernandez-Aguilar,timothybush@example.org
+6818,level,Women's Accessories,70.7,43,Lambert and Sons,jacobknapp@example.org
+5163,concern,Women's Clothing,72.02,113,Blevins PLC,smithdavid@example.org
+4353,knowledge,Men's Accessories,63.03,54,Higgins PLC,douglas96@example.org
+2287,what,Women's Accessories,31.54,97,Thomas-Hubbard,dayjacqueline@example.net
+3361,though,Women's Shoes,11.0,42,Williamson Ltd,christopher77@example.org
+5747,address,Women's Clothing,91.59,166,Conway PLC,cherylcummings@example.org
+7079,manage,Men's Shoes,91.81,199,Mack-Carter,ftaylor@example.com
+1734,perhaps,Men's Clothing,54.91,71,Robbins LLC,franklinbarnes@example.org
+7655,someone,Women's Shoes,46.16,136,Johnson PLC,kevin93@example.org
+8153,want,Women's Accessories,14.08,179,Munoz-Kelly,brooksmike@example.com
+1706,occur,Women's Clothing,78.62,52,Abbott LLC,lewistyler@example.org
+6049,put,Women's Accessories,53.34,50,Holt-Shaw,howelltaylor@example.com
+5646,real,Women's Shoes,54.25,184,Gonzalez-Myers,martinrobert@example.net
+4144,laugh,Women's Shoes,86.05,177,"Richards, Lin and Cook",ycarter@example.com
+2124,financial,Women's Accessories,19.57,119,Phillips Ltd,thomasshaffer@example.org
+7132,understand,Women's Shoes,29.65,178,"Smith, Parker and Black",kevinboone@example.com
+9272,will,Women's Shoes,52.36,129,Rich LLC,orodriguez@example.net
+7785,personal,Women's Clothing,63.33,186,Hess-Tucker,dixonjennifer@example.org
+8194,animal,Men's Shoes,91.78,130,Koch-Gutierrez,evansjames@example.org
+7837,never,Men's Accessories,47.26,119,"York, Thomas and Mccoy",idoyle@example.net
+7203,heavy,Women's Shoes,69.71,193,Garcia-Anderson,klove@example.org
+7138,time,Men's Accessories,25.03,110,"Schmidt, Gomez and Lopez",edward83@example.org
+9599,guy,Men's Shoes,22.48,126,Wood Ltd,gina91@example.net
+8341,bill,Men's Clothing,46.78,154,"Rios, Walsh and Bowman",laurabaker@example.org
+3326,she,Men's Accessories,45.27,90,"Cole, Turner and Fisher",bullockcolleen@example.com
+7060,do,Women's Shoes,70.91,105,Stevens-Price,johnsonsteven@example.net
+6722,serve,Women's Shoes,94.78,150,"Norris, Cisneros and Daniel",johngonzalez@example.org
+3875,south,Women's Clothing,46.31,54,Chandler-Herrera,cochranjoel@example.net
+3270,last,Men's Accessories,36.61,58,Torres Group,stevenallen@example.com
+1580,risk,Men's Shoes,79.35,151,Schneider Group,xford@example.net
+9498,painting,Women's Shoes,10.51,137,Jones LLC,burnsjason@example.com
+6722,course,Men's Shoes,28.87,47,Mccann-Smith,opope@example.com
+5048,yes,Men's Clothing,37.3,51,"Cruz, Carr and Keller",megan77@example.net
+2858,give,Men's Clothing,70.87,39,Richardson-Garrison,evelyn21@example.org
+4946,short,Women's Accessories,31.64,120,"Allen, Shaw and French",ofloyd@example.org
+8109,tend,Women's Clothing,70.31,174,Graves Group,uwhite@example.net
+3690,no,Women's Accessories,34.0,188,Robinson Inc,maxwellshane@example.net
+5669,there,Women's Accessories,70.06,176,"Martinez, Jensen and Graham",roy12@example.com
+4714,allow,Women's Clothing,48.48,77,Rodriguez-Dougherty,pamelaward@example.net
+9093,she,Men's Accessories,84.53,10,"Delgado, Rodriguez and Johnson",flynnheather@example.com
+1258,necessary,Women's Clothing,63.72,28,Coleman-Griffin,odennis@example.org
+7746,stock,Men's Shoes,77.52,71,Gray-Carter,douglas25@example.com
+9093,fire,Men's Accessories,96.85,54,Cruz Group,vrandall@example.com
+9142,able,Men's Shoes,56.73,166,"Lopez, Ross and Vega",qlogan@example.com
+7741,security,Women's Clothing,72.94,163,Hunter Group,clarkanthony@example.com
+7512,responsibility,Women's Accessories,85.33,17,"Trevino, Nixon and Hickman",courtneydelacruz@example.com
+3410,once,Men's Shoes,16.2,26,Alvarez and Sons,timothy07@example.net
+9281,glass,Women's Clothing,34.06,176,Harrington-Owens,ediaz@example.org
+7259,institution,Women's Accessories,87.2,53,Green-Cook,thomasmary@example.org
+7655,such,Men's Accessories,18.81,52,"Wheeler, Olsen and Castillo",daniellenoble@example.com
+7240,sort,Men's Accessories,80.23,92,"Horton, Velasquez and Middleton",imaynard@example.net
+3492,at,Women's Accessories,88.16,34,"Pope, Sims and Davis",emedina@example.org
+5508,floor,Men's Clothing,44.09,193,"Castro, Nguyen and Peck",melissa25@example.org
+5662,answer,Women's Accessories,29.79,91,"Taylor, York and Jones",imartinez@example.com
+1434,physical,Men's Clothing,45.27,40,"Frazier, Trevino and Hill",yfuller@example.net
+3819,least,Women's Clothing,47.42,164,"Scott, Stephens and Nelson",williamsrichard@example.org
+4551,whether,Men's Clothing,29.88,45,Martin-Shaw,krista29@example.net
+3483,ever,Men's Shoes,44.81,139,"Allen, Castro and Hughes",rodriguezjennifer@example.com
+2978,but,Men's Shoes,83.41,38,"Mercado, Chan and Copeland",brownlisa@example.com
+9922,green,Men's Accessories,30.78,40,Martinez-Coleman,ronald83@example.org
+6468,happen,Women's Accessories,40.58,104,Kane Group,halldanielle@example.net
+9555,perhaps,Women's Clothing,36.52,27,Hudson-Wood,lewisbrett@example.com
+1964,toward,Women's Accessories,21.45,153,Moyer-Hernandez,ucohen@example.org
+1868,set,Women's Accessories,99.74,131,Clark PLC,melissataylor@example.net
+9923,all,Women's Shoes,27.04,56,Hale-Boone,ywaters@example.net
+5846,car,Men's Shoes,74.79,55,"Dennis, Jefferson and Castro",mathewskrista@example.net
+3150,south,Women's Clothing,31.73,101,Griffith Ltd,christophercastro@example.net
+7943,future,Men's Clothing,83.64,25,Gardner-Mora,adamsmonica@example.org
+7011,beautiful,Women's Shoes,78.94,154,Carter Inc,joshua80@example.net
+9944,strategy,Men's Shoes,62.57,155,Jacobs-Day,john18@example.net
+2546,company,Women's Clothing,48.48,162,Bauer-Harris,klineshawn@example.com
+5286,into,Women's Clothing,56.68,97,Velazquez PLC,rojasmichael@example.org
+9985,down,Men's Clothing,36.39,193,Diaz Group,murphywilliam@example.org
+8034,kid,Women's Shoes,21.36,126,"Delacruz, Hansen and Stewart",thomas18@example.com
+1130,explain,Men's Accessories,73.46,165,Stevens LLC,isaachawkins@example.com
+7266,employee,Women's Accessories,25.92,178,"Jenkins, Bailey and Stewart",michael79@example.net
+9904,especially,Women's Accessories,29.54,64,Gay Ltd,hhill@example.org
+7207,physical,Women's Clothing,71.01,57,Wood Ltd,jillianthompson@example.com
+8980,heavy,Women's Clothing,29.1,10,"Ruiz, Powell and Garcia",gilbertkristen@example.net
+9448,hotel,Women's Clothing,97.58,78,Garcia-Norris,dcummings@example.org
+1478,least,Men's Shoes,50.59,112,"Francis, Thompson and Tran",garciajames@example.org
+9775,specific,Men's Shoes,46.14,59,"Meyer, Thompson and Atkins",haley36@example.com
+7134,yeah,Men's Accessories,55.61,97,Hughes-Robinson,cdavis@example.com
+3730,wonder,Women's Shoes,13.49,35,Ortega Ltd,pfarrell@example.net
+6152,support,Women's Shoes,99.2,189,Thornton-Morales,lcoleman@example.org
+3792,compare,Women's Clothing,19.84,62,Hines-Adams,mackenzie25@example.org
+8144,since,Women's Accessories,11.45,35,"Lewis, Mccormick and Harrell",stacey89@example.net
+5501,popular,Men's Accessories,26.59,150,"Brown, Rodriguez and Fuller",fmorgan@example.net
+7064,wonder,Men's Shoes,68.93,40,Martinez Group,christinewalker@example.com
+5045,agent,Men's Shoes,15.69,156,Marks LLC,droberson@example.org
+5332,senior,Men's Shoes,33.06,142,Barnes-Torres,wwilliams@example.org
+1942,team,Men's Clothing,69.36,169,"West, Meyer and Hurley",astone@example.org
+7791,example,Women's Shoes,66.89,144,"Jackson, Johnson and Gonzalez",gjohnson@example.net
+7469,despite,Men's Accessories,27.89,186,"Russell, Khan and Diaz",carlosgarcia@example.com
+9408,anyone,Men's Shoes,12.85,64,Ferrell Group,jacqueline46@example.org
+9957,far,Men's Shoes,39.51,90,Vasquez Ltd,fordjames@example.com
+8537,cover,Men's Shoes,73.0,196,"Henson, Hopkins and Davis",hansenkristi@example.com
+5781,collection,Men's Shoes,20.71,81,"Wilson, Thompson and Keller",clong@example.com
+5918,foreign,Men's Clothing,48.46,86,Wiley-Gould,ifloyd@example.org
+4660,over,Men's Clothing,21.4,54,"Castro, Wood and Dudley",brittanysmith@example.org
+2512,certainly,Women's Shoes,61.05,66,"Russell, Smith and Perry",ajensen@example.net
+4423,president,Men's Shoes,72.42,185,Espinoza Ltd,taylormcbride@example.net
+1452,trouble,Men's Clothing,77.51,112,Smith-Gutierrez,hollandtim@example.org
+5353,many,Women's Shoes,76.93,189,"Ball, Long and Moore",robertanderson@example.net
+5183,continue,Men's Shoes,79.68,162,Waters PLC,justinrodriguez@example.com
+6521,respond,Women's Shoes,37.37,60,Miller-Avila,gregorygibbs@example.org
+8837,thank,Men's Shoes,96.1,107,Lyons-Horton,masonjason@example.net
+8468,PM,Women's Accessories,38.62,162,Spears-Lawson,estevenson@example.com
+3385,foot,Women's Shoes,99.82,199,Alexander LLC,hernandezbrandi@example.org
+3237,so,Women's Shoes,14.48,52,"Keller, Harrison and Waters",patrick36@example.org
+3412,find,Men's Shoes,84.68,68,Cooley PLC,khood@example.com
+1901,late,Women's Shoes,38.74,183,"Johnson, Sanders and Williams",pholland@example.net
+3629,water,Women's Shoes,13.11,56,White-Cook,nicole62@example.org
+5454,five,Men's Accessories,77.39,72,"Carney, Robertson and King",adam48@example.net
+5755,occur,Men's Accessories,93.89,195,Webb-Small,paulaschmitt@example.org
+5299,finish,Men's Shoes,35.13,196,"Bennett, Allen and Roach",mark90@example.com
+5298,fight,Women's Accessories,18.67,167,Johnson PLC,robertmichael@example.com
+7565,describe,Women's Accessories,10.68,154,Mann Ltd,mark92@example.com
+5157,key,Men's Shoes,15.67,51,Davila-Kirk,fweber@example.org
+7844,score,Men's Accessories,89.36,193,Powell-Carlson,murphyjennifer@example.org
+8091,probably,Men's Shoes,59.59,33,"Townsend, Alexander and Murillo",dbennett@example.com
+6653,pretty,Women's Accessories,93.31,165,Hull-Morgan,bennettkenneth@example.net
+1980,avoid,Men's Shoes,51.78,93,Beasley LLC,duncanshawn@example.net
+7472,away,Men's Clothing,84.9,199,"Jarvis, Kelley and Brown",qwebb@example.org
+5790,federal,Women's Shoes,18.25,89,"Hampton, Anderson and Higgins",hannah92@example.com
+4601,could,Men's Clothing,48.52,144,"Paul, Hill and Tucker",wlawson@example.net
+1895,choice,Women's Clothing,35.44,96,"Rodriguez, Brown and Snyder",howellamanda@example.net
+1709,question,Men's Clothing,55.27,91,Brown-Gibson,christopherlivingston@example.net
+9997,past,Men's Accessories,51.94,15,Williams Ltd,dperry@example.net
+2408,trouble,Men's Accessories,45.18,27,Rivera LLC,mgarcia@example.com
+5455,shake,Men's Clothing,47.85,89,Moses-Pacheco,joseph11@example.com
+4303,and,Women's Shoes,85.19,57,Hughes Inc,nnoble@example.net
+4623,property,Men's Shoes,99.5,101,Hancock Group,etorres@example.org
+7424,hear,Men's Clothing,16.3,73,Pace-Holland,jharris@example.org
+4556,condition,Women's Accessories,76.45,134,Ritter LLC,bryantjeffrey@example.org
+3153,beat,Women's Accessories,33.95,147,Weber-Mills,ocampbell@example.net
+8110,know,Men's Accessories,13.66,92,"Lopez, Vang and May",bsuarez@example.com
+8190,hear,Men's Shoes,36.95,14,Miles LLC,gregory80@example.net
+4802,we,Women's Shoes,38.19,148,Howell-Lopez,mlong@example.com
+8096,food,Men's Shoes,11.43,34,Williams-Herman,kaiserconnor@example.org
+6155,task,Men's Clothing,28.28,75,"Johnson, Espinoza and Reynolds",anthony72@example.org
+7247,lay,Men's Accessories,60.75,71,"Mayer, Tran and Smith",herreragary@example.net
+3129,land,Men's Shoes,90.75,138,Davis Group,iwiley@example.org
+8118,leader,Women's Clothing,78.22,76,Bradley and Sons,georgehenderson@example.net
+4816,drive,Women's Clothing,31.58,149,"Turner, Gordon and Poole",robin28@example.org
+7101,person,Women's Accessories,62.07,39,Holmes and Sons,james35@example.org
+5017,hold,Men's Accessories,43.45,126,Smith-Hurst,linda78@example.org
+1002,blue,Women's Accessories,14.32,14,"Sullivan, Vaughan and Miller",tabithalee@example.org
+6394,clearly,Women's Shoes,36.16,194,Cross LLC,parkerjennifer@example.net
+4629,office,Men's Accessories,72.76,119,Gardner-Mendoza,kimberly77@example.com
+9487,professional,Women's Shoes,56.8,147,Martin-Nguyen,perryamy@example.org
+6445,door,Women's Shoes,55.04,135,Duncan Inc,amandacamacho@example.org
+1944,major,Men's Shoes,13.63,133,Davidson-Craig,ebarber@example.org
+2340,difference,Women's Accessories,57.45,79,Green Inc,justin13@example.org
+2084,get,Women's Clothing,21.36,11,"Silva, Thompson and Hamilton",jacksonjodi@example.com
+2647,bar,Men's Clothing,70.51,18,"Howard, Johnson and York",elizabeth03@example.org
+8037,almost,Women's Shoes,26.93,64,"Martinez, Mcintosh and Wright",owalter@example.com
+4806,or,Men's Clothing,10.95,105,"Miller, Bell and Thompson",hpatel@example.net
+3127,push,Women's Shoes,55.11,75,Ballard-Tyler,felicia19@example.com
+6082,fill,Women's Shoes,33.63,190,"Mcgrath, Parks and Lopez",smithalyssa@example.net
+7474,security,Men's Clothing,46.11,108,Farmer PLC,wrose@example.com
+1513,arm,Men's Accessories,85.81,13,"Williams, Larson and Nichols",huntermaureen@example.net
+6716,read,Women's Clothing,82.26,47,Day LLC,michaelbutler@example.com
+8891,notice,Men's Clothing,51.49,16,Hodges-Rodriguez,lindasoto@example.net
+4716,special,Men's Clothing,86.31,182,"Hayes, Horton and Mcclain",xkennedy@example.com
+4104,door,Women's Clothing,27.48,54,"Crosby, Martin and Clay",jsmith@example.net
+8396,chance,Women's Accessories,24.34,124,Washington-Tanner,dunnjennifer@example.com
+4803,camera,Men's Clothing,43.93,169,Smith Group,simpsonmichael@example.net
+2077,east,Women's Accessories,15.43,180,"Estrada, Hamilton and Jimenez",alanarmstrong@example.net
+5384,maybe,Women's Clothing,80.87,131,Ritter LLC,reynoldsmichelle@example.net
+4052,guy,Women's Accessories,54.46,46,Brown Inc,jamie65@example.org
+6847,radio,Women's Clothing,10.8,200,"Hudson, Strickland and Brown",heatherbush@example.net
+8477,white,Women's Clothing,63.43,42,"Acevedo, Townsend and Cole",travisjuarez@example.com
+7292,side,Women's Clothing,68.57,139,Mendoza PLC,ubauer@example.net
+3395,threat,Women's Clothing,25.1,97,Johnson-Stevenson,annwilson@example.net
+4331,real,Men's Accessories,16.39,171,"Moore, Jones and Walton",sgray@example.net
+7933,ago,Men's Clothing,12.26,49,Farley-King,agomez@example.org
+8663,available,Women's Clothing,71.4,36,Hutchinson-Jensen,billyanderson@example.com
+9126,another,Men's Shoes,94.05,153,"Carlson, Blair and Jones",mackhenry@example.com
+9775,set,Women's Shoes,23.96,31,Oliver Ltd,lscott@example.com
+8803,join,Women's Shoes,51.31,93,Cummings-Haley,dsalinas@example.com
+6925,marriage,Men's Accessories,67.1,56,Allen PLC,jennifer40@example.com
+3031,fine,Men's Accessories,78.12,75,Shaw-Daniels,hughesanthony@example.com
+2340,that,Men's Shoes,71.73,161,"Soto, Sanders and Dennis",elizabeth74@example.net
+4329,positive,Women's Accessories,58.79,170,Huynh-Johnson,adam13@example.com
+5427,style,Men's Accessories,89.93,142,Roberts-Lee,qsmith@example.net
+2141,full,Men's Clothing,29.49,190,Evans Group,hgarcia@example.com
+4009,happen,Men's Clothing,70.97,125,Graves Inc,michaelrowland@example.com
+1026,agent,Men's Accessories,27.2,128,"Cooper, Morris and Carr",ubrown@example.com
+2952,rest,Men's Shoes,80.13,54,Martinez and Sons,michaelshort@example.org
+2555,manager,Women's Shoes,48.5,147,"Lee, Young and Douglas",egonzalez@example.com
+8614,experience,Men's Clothing,41.28,174,Hampton Group,qcarey@example.org
+1111,marriage,Women's Accessories,72.82,143,Bailey-Alexander,nicholasryan@example.com
+6235,seem,Women's Shoes,73.43,148,Fry and Sons,wellsstacey@example.org
+5707,statement,Men's Clothing,69.11,53,Yang-Schmitt,lopezmary@example.com
+4417,arm,Women's Accessories,37.64,82,"Boyer, Cox and Gillespie",thomas42@example.net
+9011,computer,Women's Accessories,31.3,90,"George, Vega and Wise",thomaswillis@example.org
+5047,stage,Men's Clothing,78.36,122,"Weaver, Griffin and Powell",christinamoore@example.net
+4531,control,Men's Clothing,41.87,200,Smith and Sons,gabriellowe@example.com
+5559,gun,Women's Shoes,66.38,25,Lawson Ltd,thompsonanthony@example.com
+2570,last,Men's Accessories,92.83,189,Collins-Huff,ojacobs@example.com
+9732,both,Women's Shoes,48.97,34,"Barron, Smith and Lawrence",kjordan@example.org
+7682,position,Women's Clothing,57.92,195,"Mathews, Campbell and Cox",dmckee@example.com
+4716,imagine,Women's Accessories,46.94,172,"Miller, Schneider and Bennett",janetjohnson@example.net
+3584,dog,Women's Clothing,34.51,67,Petersen Inc,ethan84@example.com
+2367,security,Women's Accessories,16.39,20,"Peters, Vance and Doyle",smithmichael@example.org
+5193,southern,Men's Clothing,51.46,96,Henry and Sons,leebrittany@example.net
+1432,indicate,Men's Clothing,61.36,152,Moran-Dixon,baustin@example.net
+9419,now,Women's Shoes,74.78,23,Cruz and Sons,bstephenson@example.org
+9292,kind,Women's Clothing,67.77,130,James-Martin,jerry50@example.org
+8427,speech,Women's Shoes,21.18,25,"Yang, Velazquez and Juarez",tgraham@example.org
+3266,beat,Women's Shoes,11.72,176,"Hoffman, Martinez and Gallagher",amandapetersen@example.com
+6483,charge,Men's Accessories,55.92,60,Jackson-Sims,mercerwilliam@example.net
+5072,however,Men's Accessories,25.47,25,Harris-Brown,gregorystephenson@example.com
+8915,upon,Women's Shoes,76.95,131,"Ford, Watson and Brady",lwillis@example.net
+9743,around,Women's Clothing,97.24,115,"Webster, Torres and Johnson",allencody@example.net
+2868,when,Men's Clothing,32.18,49,"Moore, Morse and Bruce",antoniowarren@example.org
+1769,although,Men's Clothing,75.27,153,"Gross, Park and Bradley",riveramartha@example.org
+2509,institution,Men's Accessories,35.3,109,Clark-Garcia,hansoncynthia@example.com
+8131,history,Men's Clothing,76.14,80,Mccall-West,ggonzalez@example.org
+7222,certain,Men's Accessories,79.67,157,Tran and Sons,moniqueholt@example.org
+1332,impact,Women's Shoes,54.59,15,"Goodwin, Young and Roberts",ele@example.com
+2359,phone,Women's Accessories,24.45,160,Kim Inc,sheparddestiny@example.net
+6695,song,Women's Shoes,69.42,160,West LLC,qhernandez@example.net
+4660,him,Men's Clothing,18.83,53,Salinas-Barton,thomastimothy@example.net
+7778,over,Women's Clothing,38.94,91,Wright Inc,pweber@example.org
+8458,relationship,Men's Accessories,99.8,93,Nichols PLC,bsmith@example.org
+1094,third,Men's Shoes,68.53,96,Cooper LLC,bperez@example.org
+1943,region,Men's Clothing,71.85,64,Fletcher-Burton,idonovan@example.com
+7204,notice,Men's Accessories,28.98,159,Davenport-Moore,lori49@example.com
+3715,resource,Men's Clothing,59.13,106,Jordan LLC,xmyers@example.org
+1617,then,Women's Accessories,36.99,32,Smith Inc,david43@example.com
+4452,campaign,Men's Clothing,70.84,23,Lewis-Evans,zwells@example.org
+5540,among,Men's Shoes,24.03,191,Davis-Randall,greenjason@example.net
+6491,interview,Men's Accessories,99.88,182,Hodges Group,sweeks@example.com
+3751,program,Men's Clothing,57.08,85,"Edwards, Bruce and Porter",lisasanchez@example.net
+5200,south,Women's Shoes,67.62,178,Nelson and Sons,benjaminsalas@example.net
+5299,keep,Women's Accessories,74.18,120,Massey-Wright,angela75@example.net
+1240,their,Women's Accessories,79.33,176,"Robinson, Wilcox and Robertson",jessicamarquez@example.com
+1509,article,Men's Shoes,71.26,28,"Hodge, Hamilton and Norman",amanda31@example.org
+5058,of,Men's Clothing,10.58,154,Hughes-Patel,vasquezkenneth@example.net
+1207,easy,Men's Shoes,79.4,78,"Myers, Rangel and Thompson",kimflowers@example.org
+5164,minute,Women's Shoes,28.22,200,Hart PLC,racheljackson@example.com
+7566,recent,Men's Shoes,90.61,23,Perry-Alexander,amanda43@example.org
+6523,I,Men's Accessories,17.46,61,"Baldwin, Diaz and Solis",donovanmartin@example.org
+9324,trade,Men's Shoes,61.52,14,"Mack, Bryant and Curry",amandamathews@example.net
+6332,site,Women's Accessories,58.22,157,Patrick-Wright,burkejonathan@example.org
+7343,serious,Men's Clothing,89.58,26,Fleming-Ayers,kim01@example.org
+6685,interview,Men's Accessories,74.43,78,"Mahoney, Oneal and Salazar",raymond50@example.net
+8177,nearly,Men's Clothing,98.6,30,Williams-Griffin,ojones@example.net
+6376,explain,Women's Clothing,31.93,198,"Myers, Whitaker and Acosta",ddoyle@example.com
