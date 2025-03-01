@@ -1,12 +1,13 @@
-'''a=input("Enter name: ")
+print("Casual Conversation")
+a=input("Enter name: ")
 b=input("What's your favourite color? ")
 print(a,"likes",b)
 a=eval(input("Enter weight in pounds: "))
 b=a/2.205
 print("Your weight in kg: ",b)
-a="hellello"
-a.find('o')
+print("Floor division")
 print(1435//4)
+print("Casual Conversation")
 name=str(input("Enter name: "))
 if len(name)<3:
     print("Name must be at least 3 characters long")
@@ -23,7 +24,7 @@ else:
     g=w*0.45
     print(f"You are {g} kg")
 secret=5
-
+print("Guess the number")
 i=1
 while i<=3:
     guess=int(input("Guess: "))
@@ -35,6 +36,7 @@ while i<=3:
         i+=1
 else:
     print("You loose")
+print("Car Game")
 command=""
 started=False
 while True:
@@ -61,18 +63,17 @@ quit- to end""")
         break
     else:
         print("Sorry I don't understand")
-num=[2,2,2,2,5]
-for i in num:
-    for j in range(i):
-        print("x",end="")
-    print()
+        print("")
+print("Maximum number")
 num=[5,4,7,8,3,7,8,4]
 maxi=num[0]
 for i in num:
     if i>maxi:
         maxi=i
 print("Max number: ",maxi)
+print("Reverse")
 num=[5,4,7,8,3,7,8,4]
+print(num)
 num.sort(reverse=True)
 print(num)
 a=num.copy()
@@ -84,10 +85,5 @@ d=[]
 for i in num:
     if i not in d:
         d.append(i)
-print(d)'''
-number=str(input("Phone: "))
-d={'1':'one','2':'two','3':'three','4':'four'}
-o=""
-for i in number:
-    o+=d.get()
+print(d)
 

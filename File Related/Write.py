@@ -1,6 +1,6 @@
 # Get input from user
 user_input = input("Enter text to write to file: ")
-f=input("Enter the file name: ")
+f=input("Enter the file name (Ex: output.txt): ")
 
 # Open a file in write mode
 with open(f, "w") as file:

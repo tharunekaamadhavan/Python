@@ -1,4 +1,4 @@
-dobo = input("Enter the file name: ")
+dobo = input("Enter the file path: ")
 
 vowels = 0
 consonants = 0

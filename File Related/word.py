@@ -1,4 +1,4 @@
-in_fn=input("enter filename" )
+in_fn=input("enter file path: " )
 fin=open(in_fn,"r")
 largest_word=""
 wordcount=0
